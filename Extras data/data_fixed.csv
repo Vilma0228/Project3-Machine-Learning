@@ -1,0 +1,945 @@
+,List_Price ,List_Price .1,beds,baths,sq_ft
+0,"950 N Michigan Ave # 39B Chicago, IL 60611",941000.0,2.0,2.5,465900.0
+1,"100 E Huron St Apt 1901 Chicago, IL 60611",370000.0,1.0,1.5,376500.0
+2,"3150 N Sheridan Rd Apt 17D Chicago, IL 60657",235000.0,1.0,1.0,335900.0
+3,"411 W Ontario St Apt 101 Chicago, IL 60654",353000.0,1.0,1.5,249900.0
+4,"680 N Lake Shore Dr Apt 222 Chicago, IL 60611",397000.0,2.0,1.5,211800.0
+5,"1660 N La Salle Dr Apt 3307 Chicago, IL 60614",296000.0,1.0,1.0,66600.0
+6,"711 S Dearborn St Unit 706 Chicago, IL 60605",350000.0,2.0,1.0,43400.0
+7,"3201 N Ravenswood Ave Apt 210 Chicago, IL 60657",400000.0,2.0,1.5,36300.0
+8,"3201 N Ravenswood Ave Apt 206 Chicago, IL 60657",390000.0,2.0,1.5,36300.0
+9,"3201 N Ravenswood Ave Apt 305 Chicago, IL 60657",415000.0,2.0,1.5,36300.0
+10,"1749 N Wells St Apt 801 Chicago, IL 60614",488500.0,2.0,2.0,35900.0
+11,"1749 N Wells St Apt 1409 Chicago, IL 60614",300500.0,1.0,1.0,35900.0
+12,"1749 N Wells St Apt 2207 Chicago, IL 60614",323500.0,1.0,1.0,35900.0
+13,"1749 N Wells St Apt 1501 Chicago, IL 60614",289500.0,1.0,1.0,35900.0
+14,"3201 N Seminary Ave Apt 206 Chicago, IL 60657",255000.0,1.0,1.0,33700.0
+15,"4343 N Clarendon Ave Apt 902 Chicago, IL 60613",250000.0,2.0,2.0,31600.0
+16,"4343 N Clarendon Ave Apt 2710 Chicago, IL 60613",132000.0,1.0,1.0,31600.0
+17,"345 N Canal St Apt 1001 Chicago, IL 60606",332000.0,1.0,1.0,31400.0
+18,"2000 W Haddon Ave Apt 201 Chicago, IL 60622",310000.0,1.0,1.0,23600.0
+19,"11024 Kilpatrick Ave Apt 5 Oak Lawn, IL 60453",72000.0,2.0,1.0,12000.0
+20,"2753 N Wayne Ave Apt D Chicago, IL 60614",470000.0,2.0,2.5,10800.0
+21,"910 N Lake Shore Dr Apt 1720 Chicago, IL 60611",459500.0,2.0,2.0,10400.0
+22,"110 E Delaware Pl Apt 602 Chicago, IL 60611",277500.0,1.0,1.5,7200.0
+23,"110 E Delaware Pl Apt 1402 Chicago, IL 60611",272000.0,1.0,1.5,7200.0
+24,"6451 S Sangamon St Chicago, IL 60621",71500.0,9.0,3.0,6156.0
+25,"1920 N Sheffield Ave Apt B Chicago, IL 60614",845000.0,2.0,2.5,5700.0
+26,"2659 N Dayton St Chicago, IL 60614",905000.0,6.0,4.5,5400.0
+27,"4261 Ford City Chicago, IL 60652",34000.0,1.0,1.0,5300.0
+28,"1476 W Marcus Ct Park Ridge, IL 60068",350000.0,4.0,7.5,5000.0
+29,"3528 N Seeley Ave Chicago, IL 60618",2650000.0,3.0,4.5,4815.0
+30,"710 W Melrose St Chicago, IL 60657",805000.0,6.0,4.0,4800.0
+31,"4130 Woodland Ave Western Springs, IL 60558",1925000.0,3.0,3.5,4665.0
+32,"2435 W Augusta Blvd # 1 Chicago, IL 60622",549500.0,2.0,8.5,4544.0
+33,"25 E Superior St Apt 3504 Chicago, IL 60611",1841500.0,4.0,4.0,4000.0
+34,"1200 S Patrick Ln Palatine, IL 60067",275000.0,4.0,3.0,4000.0
+35,"1818 N Whipple St Chicago, IL 60647",899000.0,4.0,3.5,3900.0
+36,"1313 N Ritchie Ct Apt 1803 Chicago, IL 60610",2000500.0,4.0,4.5,3780.0
+37,"1524 Skye Ct Flossmoor, IL 60422",365000.0,4.0,2.5,3753.0
+38,"1550 N State Pkwy Apt 1001 Chicago, IL 60610",3050000.0,3.0,3.5,3600.0
+39,"445 E North Water St # P-327 Chicago, IL 60611",1820000.0,3.0,3.5,3498.0
+40,"737 W Washington Blvd Apt 2201 Chicago, IL 60661",1335000.0,4.0,3.5,3400.0
+41,"680 N Lake Shore Dr Apt 1218 Chicago, IL 60611",799000.0,4.0,3.5,3400.0
+42,"6422 S Drexel Ave Chicago, IL 60637",285000.0,5.0,3.0,3384.0
+43,"1632 N Hudson Ave Apt 5 Chicago, IL 60614",1120000.0,3.0,3.5,3300.0
+44,"1657 W Huron St # 1 Chicago, IL 60622",550000.0,4.0,3.0,3300.0
+45,"6101 N Sheridan Rd Apt 15I Chicago, IL 60660",596000.0,4.0,3.0,3300.0
+46,"701 S Wells St Apt 3304 Chicago, IL 60607",400000.0,6.0,5.0,3286.0
+47,"1749 W Roscoe St # 1 Chicago, IL 60657",785000.0,3.0,3.5,3255.0
+48,"800 N Michigan Ave Apt 2501 Chicago, IL 60611",2900000.0,3.0,2.5,3228.0
+49,"5822 S Blackstone Ave Apt 2 Chicago, IL 60637",918000.0,6.0,3.0,3200.0
+50,"950 E Wilmette Rd Unit 110 Palatine, IL 60074",90000.0,4.0,2.5,3200.0
+51,"1020 S Wabash Ave # 7EF Chicago, IL 60605",1060000.0,3.0,2.5,3200.0
+52,"4245 S Vincennes Ave # 1 Chicago, IL 60653",305000.0,4.0,2.5,3100.0
+53,"1529 N Rockwell St # 1 Chicago, IL 60622",435000.0,3.0,2.5,3080.0
+54,"21 E Huron St Apt 4103 Chicago, IL 60611",1775000.0,3.0,3.5,3033.0
+55,"159 E Walton Pl Apt 8D Chicago, IL 60611",1790000.0,3.0,3.5,3014.0
+56,"728 W Jackson Blvd # A-4 Chicago, IL 60661",430000.0,4.0,4.0,3000.0
+57,"955 W Carmen Ave Apt 1A Chicago, IL 60640",505000.0,4.0,4.0,3000.0
+58,"2856 N Burling St Apt 3 Chicago, IL 60657",697000.0,4.0,3.5,3000.0
+59,"2639 N Southport Ave # A Chicago, IL 60614",675000.0,4.0,3.5,3000.0
+60,"2821 N Damen Ave # 1 Chicago, IL 60618",490000.0,4.0,3.0,3000.0
+61,"8815 W Golf Rd Apt 12A Niles, IL 60714",255000.0,3.0,3.0,3000.0
+62,"94 Graymoor Ln Olympia Fields, IL 60461",25000.0,4.0,2.5,2990.0
+63,"1210 N Astor St Apt 2A Chicago, IL 60610",1300000.0,4.0,2.0,2850.0
+64,"2334 W 21st St Chicago, IL 60608",100000.0,7.0,3.0,2814.0
+65,"1316 N Sandburg Ter # 1316 Chicago, IL 60610",860000.0,4.0,2.5,2800.0
+66,"1530 S State St Apt 900 Chicago, IL 60605",940000.0,3.0,2.5,2800.0
+67,"2731 N Wilton Ave # 3 Chicago, IL 60614",710000.0,3.0,2.5,2800.0
+68,"930 W Concord Pl # 1 Chicago, IL 60614",832500.0,3.0,2.5,2800.0
+69,"680 N Lake Shore Dr Apt 513 Chicago, IL 60611",495000.0,2.0,2.5,2790.0
+70,"180 E Pearson St Apt 6601 Chicago, IL 60611",2050000.0,3.0,3.5,2754.0
+71,"180 E Pearson St Apt 5207 Chicago, IL 60611",1516500.0,2.0,3.5,2754.0
+72,"132 E Delaware Pl Apt 5106 Chicago, IL 60611",2450000.0,3.0,3.0,2746.0
+73,"714 W Melrose St Apt 1E Chicago, IL 60657",810000.0,4.0,3.5,2700.0
+74,"3535 N Fremont St Apt 3 Chicago, IL 60657",670000.0,3.0,3.0,2700.0
+75,"8141 Lavergne Ave Burbank, IL 60459",50000.0,4.0,2.5,2700.0
+76,"1447 W Thomas St # 3 Chicago, IL 60642",695000.0,3.0,2.5,2700.0
+77,"820 W George St # 1 Chicago, IL 60657",586500.0,3.0,2.5,2700.0
+78,"3844 N Sheffield Ave # 104 Chicago, IL 60613",600000.0,3.0,2.5,2700.0
+79,"2258 W Huron St Unit L Chicago, IL 60612",522000.0,2.0,2.5,2674.0
+80,"1155 N Dearborn St Apt 403 Chicago, IL 60610",1045000.0,3.0,2.5,2650.0
+81,"9875 W 144th Pl Orland Park, IL 60462",488000.0,1.0,3.5,2634.0
+82,"664 W Aldine Ave Chicago, IL 60657",625000.0,5.0,2.0,2620.0
+83,"133 Knockderry Ln Inverness, IL 60067",497500.0,3.0,3.5,2600.0
+84,"2719 N Paulina St Apt 1N Chicago, IL 60614",700000.0,4.0,3.0,2600.0
+85,"917 W Altgeld St # 1W Chicago, IL 60614",716000.0,4.0,3.0,2600.0
+86,"1530 W Cortez St Apt 1 Chicago, IL 60642",522000.0,3.0,3.0,2600.0
+87,"1022 N Wood St # 1 Chicago, IL 60622",623000.0,3.0,2.5,2600.0
+88,"1412 W Cuyler Ave Apt 1W Chicago, IL 60613",602500.0,3.0,2.5,2600.0
+89,"2800 N Talman Ave # D5 Chicago, IL 60618",390000.0,2.0,2.5,2600.0
+90,"1532 W Fry St Chicago, IL 60642",430000.0,3.0,3.0,2550.0
+91,"1509 N Hudson Ave Chicago, IL 60610",650000.0,3.0,3.0,2500.0
+92,"3520 N Reta Ave Apt 1S Chicago, IL 60657",759000.0,4.0,2.5,2500.0
+93,"1827 W Iowa St # 1 Chicago, IL 60622",580000.0,3.0,2.5,2500.0
+94,"1738 N Mohawk St # 3 Chicago, IL 60614",975000.0,3.0,2.5,2500.0
+95,"452 W Roslyn Pl # 1E Chicago, IL 60614",475000.0,3.0,2.5,2500.0
+96,"4040 N Kenmore Ave Apt 1S Chicago, IL 60613",445500.0,3.0,2.0,2500.0
+97,"1641 N Claremont Ave Chicago, IL 60647",1307500.0,3.0,3.5,2499.0
+98,"1031 W Monroe St Unit 1 Chicago, IL 60607",928500.0,3.0,3.0,2425.0
+99,"1505 N Mohawk St # 1W Chicago, IL 60610",760000.0,4.0,3.0,2400.0
+100,"1367 W Crystal St # 1 Chicago, IL 60642",520000.0,4.0,3.0,2400.0
+101,"873 N Hermitage Ave # 1 Chicago, IL 60622",532000.0,3.0,3.0,2400.0
+102,"1945 W Erie St # 1W Chicago, IL 60622",453000.0,3.0,2.5,2400.0
+103,"2616 N Orchard St Apt 4 Chicago, IL 60614",516000.0,3.0,2.5,2400.0
+104,"1140 W Cornelia Ave Apt C Chicago, IL 60657",636500.0,3.0,2.5,2400.0
+105,"4650 N Winthrop Ave Apt 3C Chicago, IL 60640",498000.0,3.0,2.0,2400.0
+106,"55 E Erie St Apt 1705 Chicago, IL 60611",1150000.0,3.0,3.0,2384.0
+107,"1445 W Huron St Apt 3 Chicago, IL 60642",505000.0,3.0,2.5,2350.0
+108,"1000 W Washington Blvd Unit 406 Chicago, IL 60607",1200000.0,2.0,2.0,2350.0
+109,"1512 N Campbell Ave # 1 Chicago, IL 60622",450000.0,3.0,3.0,2320.0
+110,"6145 N Glenwood Ave # 1N Chicago, IL 60660",418000.0,3.0,3.0,2300.0
+111,"3038 N Leavitt St # 1 Chicago, IL 60618",596000.0,3.0,3.0,2300.0
+112,"2743 N Wolcott Ave Unit 44 Chicago, IL 60614",637000.0,3.0,3.0,2300.0
+113,"1440 N State Pkwy Apt 21D Chicago, IL 60610",770000.0,3.0,2.5,2300.0
+114,"547 S Clark St Apt 1401 Chicago, IL 60605",825000.0,3.0,2.5,2300.0
+115,"1646 W Julian St Apt A Chicago, IL 60622",485000.0,2.0,2.5,2300.0
+116,"910 W Jackson Blvd # 3W Chicago, IL 60607",900000.0,3.0,1.5,2300.0
+117,"4035 N Parkside Dr Hoffman Estates, IL 60192",357500.0,4.0,2.5,2278.0
+118,"1651 W Huron St # 1E Chicago, IL 60622",505000.0,3.0,2.5,2250.0
+119,"1122 W Diversey Pkwy # 2E Chicago, IL 60614",465000.0,2.0,2.0,2238.0
+120,"1812 S Federal St # F36 Chicago, IL 60616",508000.0,3.0,2.0,2230.0
+121,"5827 Franklin Ct Hanover Park, IL 60133",240000.0,4.0,2.5,2212.0
+122,"4448 N Dover St # 1 Chicago, IL 60640",428000.0,3.0,3.0,2200.0
+123,"1641 N Dayton St # 1 Chicago, IL 60614",695000.0,3.0,3.0,2200.0
+124,"4147 S Ellis Ave # 2N Chicago, IL 60653",242500.0,3.0,2.5,2200.0
+125,"5832 Lincoln Ave Unit A Morton Grove, IL 60053",315000.0,3.0,2.5,2200.0
+126,"2537 N Greenview Ave Chicago, IL 60614",483000.0,3.0,2.5,2200.0
+127,"1410 W Argyle St # P-5 Chicago, IL 60640",425000.0,3.0,2.5,2200.0
+128,"875 N Milwaukee Ave # 2-3E Chicago, IL 60642",575000.0,3.0,2.5,2200.0
+129,"1300 N Lake Shore Dr Apt 19A Chicago, IL 60610",1455000.0,3.0,2.5,2200.0
+130,"2728 N Racine Ave # 1 Chicago, IL 60614",602000.0,3.0,2.5,2200.0
+131,"1235 W George St Apt 112 Chicago, IL 60657",630000.0,3.0,2.5,2200.0
+132,"712 W Waveland Ave Apt 1D Chicago, IL 60613",424500.0,4.0,2.0,2200.0
+133,"613 N Paulina St # 3 Chicago, IL 60622",586500.0,3.0,2.0,2200.0
+134,"418 Church St Evanston, IL 60201",548000.0,3.0,2.0,2200.0
+135,"1022 S Racine Ave Apt 301 Chicago, IL 60607",529000.0,3.0,2.0,2191.0
+136,"1212 N Lake Shore Dr Apt 33AS Chicago, IL 60610",1300000.0,3.0,2.5,2150.0
+137,"4209 S Michigan Ave Apt 1N Chicago, IL 60653",1935000.0,2.0,2.5,2146.0
+138,"17922 Alabama Ct Orland Park, IL 60467",245000.0,2.0,2.5,2117.0
+139,"2850 N Damen Ave # 3 Chicago, IL 60618",470000.0,3.0,3.0,2100.0
+140,"1110 N Lake Shore Dr Apt 7S Chicago, IL 60611",860000.0,3.0,2.5,2100.0
+141,"1120 Driftwood Ct Flossmoor, IL 60422",177000.0,3.0,2.5,2100.0
+142,"6426 S Kenwood Ave Apt 1S Chicago, IL 60637",160000.0,3.0,2.5,2100.0
+143,"1640 W Beach Ave Apt 1E Chicago, IL 60622",585000.0,3.0,2.5,2100.0
+144,"130 E Oak St Apt 13B Chicago, IL 60611",722500.0,2.0,2.5,2100.0
+145,"7362 N Damen Ave Apt 3N Chicago, IL 60645",245000.0,3.0,2.0,2100.0
+146,"3241 N Racine Ave # 3 Chicago, IL 60657",580000.0,3.0,2.0,2100.0
+147,"2024 W Roscoe St Apt 2 Chicago, IL 60618",528000.0,3.0,2.0,2100.0
+148,"6844 Zurich Ct Tinley Park, IL 60477",230000.0,2.0,2.0,2100.0
+149,"641 W Willow St Apt 122 Chicago, IL 60614",568000.0,2.0,2.0,2100.0
+150,"5401 Arlington Dr E Hanover Park, IL 60133",315000.0,4.0,2.5,2087.0
+151,"2527 W Harrison St # 1 Chicago, IL 60612",820500.0,3.0,2.5,2075.0
+152,"2044 W Roscoe St Unit 1S Chicago, IL 60618",720000.0,3.0,2.5,2050.0
+153,"2040 Arbor Ln Northfield, IL 60093",397500.0,2.0,2.5,2035.0
+154,"512 N McClurg Ct Apt 5407 Chicago, IL 60611",880000.0,3.0,3.0,2022.0
+155,"250 E Pearson St Apt 2705 Chicago, IL 60611",1750000.0,3.0,3.0,2017.0
+156,"57 E Delaware Pl Apt 2302 Chicago, IL 60611",912500.0,3.0,2.0,2015.0
+157,"7021 W Touhy Ave Apt 201B Niles, IL 60714",308000.0,3.0,2.5,2013.0
+158,"1100 N Lake Shore Dr Apt 14B Chicago, IL 60611",835000.0,3.0,2.5,2012.0
+159,"4201 S Michigan Ave Apt 1S Chicago, IL 60653",1935000.0,2.0,2.5,2004.0
+160,"2111 N Juniper Ln Arlington Heights, IL 60004",333500.0,2.0,3.5,2000.0
+161,"4644 N Central Park Ave Chicago, IL 60625",320500.0,3.0,3.0,2000.0
+162,"1629 E Hyde Park Blvd Apt 3 Chicago, IL 60615",300000.0,3.0,3.0,2000.0
+163,"143 Oakhurst Rd Matteson, IL 60443",93000.0,4.0,2.5,2000.0
+164,"1342 W Grenshaw St # 1 Chicago, IL 60607",360000.0,3.0,2.5,2000.0
+165,"1624 N Wood St # 4 Chicago, IL 60622",515000.0,3.0,2.5,2000.0
+166,"8132 Concord Ln Unit D Justice, IL 60458",164500.0,3.0,2.5,2000.0
+167,"4554 N Paulina St Apt 6 Chicago, IL 60640",500000.0,3.0,2.5,2000.0
+168,"2746 N Wolcott Ave Apt 1N Chicago, IL 60614",442500.0,3.0,2.5,2000.0
+169,"1410 N State Pkwy Apt 8A Chicago, IL 60610",670000.0,3.0,2.5,2000.0
+170,"2700 N Mildred Ave # 3 Chicago, IL 60614",645000.0,3.0,2.5,2000.0
+171,"2450 N Racine Ave Chicago, IL 60614",525000.0,3.0,2.5,2000.0
+172,"1939 Sherman Ave Apt 3E Evanston, IL 60201",746000.0,3.0,2.5,2000.0
+173,"3150 N Lake Shore Dr Apt 10A Chicago, IL 60657",770000.0,3.0,2.5,2000.0
+174,"1434 W Hollywood Ave Apt G Chicago, IL 60660",320000.0,2.0,2.5,2000.0
+175,"2111 W Churchill St Apt 113 Chicago, IL 60647",695000.0,2.0,2.5,2000.0
+176,"855 W Erie St Apt 122 Chicago, IL 60642",455000.0,2.0,2.5,2000.0
+177,"5555 S Everett Ave Apt C6 Chicago, IL 60637",169000.0,3.0,2.0,2000.0
+178,"2910 N Pine Grove Ave # 2 Chicago, IL 60657",545000.0,3.0,2.0,2000.0
+179,"11 S Wille St Apt 606 Mt Prospect, IL 60056",321000.0,3.0,2.0,2000.0
+180,"934 W Agatite Ave Apt 2 Chicago, IL 60640",477500.0,3.0,2.0,2000.0
+181,"560 W Roscoe St Apt 2E Chicago, IL 60657",520000.0,3.0,2.0,2000.0
+182,"333 S Oak Park Ave Apt 1N Oak Park, IL 60302",250000.0,3.0,2.0,2000.0
+183,"817 W Lawrence Ave Apt 1 Chicago, IL 60640",359000.0,3.0,2.0,2000.0
+184,"547 Hill Ter Apt 302 Winnetka, IL 60093",387000.0,3.0,2.0,2000.0
+185,"920 W Barry Ave Apt 5 Chicago, IL 60657",672500.0,3.0,2.0,2000.0
+186,"4040 N Mozart St Unit 1 Chicago, IL 60618",415000.0,3.0,2.0,2000.0
+187,"1120 N Wood St Apt 1 Chicago, IL 60622",475000.0,3.0,2.0,2000.0
+188,"1813 S Clark St # K41 Chicago, IL 60616",465000.0,2.0,2.0,2000.0
+189,"1750 W Julian St Apt 6 Chicago, IL 60622",450000.0,2.0,2.0,2000.0
+190,"1000 W Washington Blvd Unit 336 Chicago, IL 60607",690000.0,2.0,2.0,2000.0
+191,"5560 Cloverdale Rd Hanover Park, IL 60133",260000.0,3.0,3.0,1976.0
+192,"392 W Wood St # 23 Palatine, IL 60067",350000.0,3.0,3.5,1965.0
+193,"1920 N Stanton Ct # 62 Arlington Heights, IL 60004",353000.0,3.0,3.5,1960.0
+194,"1740 N Marshfield Ave Apt 3 Chicago, IL 60622",500000.0,2.0,2.0,1955.0
+195,"250 E Pearson St Apt 1501 Chicago, IL 60611",1005000.0,2.0,2.5,1950.0
+196,"2051 Middlefork Rd Northfield, IL 60093",745000.0,4.0,2.5,1933.0
+197,"333 W Hubbard St Apt 901 Chicago, IL 60654",799000.0,2.0,2.0,1907.0
+198,"3800 N Lake Shore Dr # 10B Chicago, IL 60613",640000.0,2.0,2.5,1905.0
+199,"622 Grove Ln Forest Park, IL 60130",324000.0,3.0,2.5,1904.0
+200,"530 N Lake Shore Dr Apt 1004 Chicago, IL 60611",725000.0,3.0,3.0,1901.0
+201,"530 N Lake Shore Dr Apt 1204 Chicago, IL 60611",840000.0,3.0,3.0,1901.0
+202,"4026 N Clarendon Ave Apt 1N Chicago, IL 60613",368000.0,2.0,3.0,1900.0
+203,"766 Stonewall Ct Schaumburg, IL 60173",325000.0,3.0,2.5,1900.0
+204,"2769 Langley Cir Glenview, IL 60026",594000.0,3.0,2.5,1900.0
+205,"1939 W Division St Apt R4 Chicago, IL 60622",660000.0,3.0,2.0,1900.0
+206,"15713 Old Orchard Ct Unit 2N Orland Park, IL 60462",179000.0,3.0,2.0,1900.0
+207,"333 W Hubbard St Apt 813 Chicago, IL 60654",799000.0,2.0,2.0,1900.0
+208,"512 N Claremont Ave # 3 Chicago, IL 60612",420000.0,3.0,1.5,1900.0
+209,"333 N Jefferson St Apt 502 Chicago, IL 60661",315000.0,3.0,2.5,1883.0
+210,"2030 N Halsted St Apt 2N Chicago, IL 60614",715000.0,2.0,2.0,1876.0
+211,"1926 S Wabash Ave Unit 4 Chicago, IL 60616",499000.0,3.0,2.0,1875.0
+212,"7411 W 114th St Worth, IL 60482",345000.0,4.0,2.5,1874.0
+213,"1737 N Paulina St Apt 301 Chicago, IL 60622",590000.0,2.0,2.0,1859.0
+214,"2142 W Jackson Blvd # 2 Chicago, IL 60612",260000.0,3.0,2.5,1850.0
+215,"1300 W Altgeld St # P14 Chicago, IL 60614",100000.0,2.0,2.5,1850.0
+216,"4359 N Campbell Ave Chicago, IL 60618",459000.0,2.0,2.5,1850.0
+217,"1621 W Rascher Ave Apt 1 Chicago, IL 60640",418000.0,3.0,2.0,1850.0
+218,"3346 N Sheffield Ave Apt 4S Chicago, IL 60657",579000.0,2.0,2.0,1850.0
+219,"2867 W Palmer St Apt 2 Chicago, IL 60647",430000.0,2.0,2.0,1815.0
+220,"4545 W Touhy Ave # 709E Lincolnwood, IL 60712",430000.0,2.0,2.0,1810.0
+221,"4853 W Race Ave # 55 Chicago, IL 60644",3500.0,5.0,2.0,1804.0
+222,"2451 N Clybourn Ave Apt 11 Chicago, IL 60614",510000.0,3.0,3.0,1800.0
+223,"900 W Agatite Ave Apt 2 Chicago, IL 60640",362000.0,3.0,3.0,1800.0
+224,"1137 W Roscoe St # 1137 Chicago, IL 60657",480000.0,3.0,3.0,1800.0
+225,"210 E Pearson St Apt 12C Chicago, IL 60611",537500.0,3.0,2.5,1800.0
+226,"909 W Diversey Pkwy Chicago, IL 60614",597000.0,3.0,2.5,1800.0
+227,"630 N State St Chicago, IL 60654",770000.0,3.0,2.5,1800.0
+228,"330 W Grand Ave # P18 Chicago, IL 60654",620000.0,3.0,2.5,1800.0
+229,"1029 N Wolcott Ave # 3 Chicago, IL 60622",525000.0,2.0,2.5,1800.0
+230,"1020 W Armitage Ave Apt 3B Chicago, IL 60614",725000.0,2.0,2.5,1800.0
+231,"147 N Rose St Palatine, IL 60067",323000.0,2.0,2.5,1800.0
+232,"1137 N Wood St Apt 1E Chicago, IL 60622",550000.0,2.0,2.5,1800.0
+233,"4452 S University Ave Apt 2 Chicago, IL 60653",275000.0,3.0,2.0,1800.0
+234,"4400 N Paulina St Apt 2A Chicago, IL 60640",405000.0,3.0,2.0,1800.0
+235,"4230 S King Dr Apt 3N Chicago, IL 60653",205000.0,3.0,2.0,1800.0
+236,"2230 N Kenmore Ave # 2 Chicago, IL 60614",490000.0,3.0,2.0,1800.0
+237,"2778 W Francis Pl # G2 Chicago, IL 60647",259000.0,3.0,2.0,1800.0
+238,"3200 N Lake Shore Dr Apt 2007 Chicago, IL 60657",465000.0,3.0,2.0,1800.0
+239,"6334 N Sheridan Rd Apt 3F Chicago, IL 60660",380000.0,3.0,2.0,1800.0
+240,"2147 N Kenmore Ave # 1B Chicago, IL 60614",490000.0,3.0,2.0,1800.0
+241,"31 E Elm St Apt 3A Chicago, IL 60611",845000.0,3.0,2.0,1800.0
+242,"4910 S Vincennes Ave # 3 Chicago, IL 60615",155000.0,3.0,2.0,1800.0
+243,"820 N California Ave Apt 4 Chicago, IL 60622",375000.0,3.0,2.0,1800.0
+244,"55 E Erie St Apt 2704 Chicago, IL 60611",970000.0,3.0,2.0,1800.0
+245,"5371 W Lawrence Ave Apt 3 Chicago, IL 60630",278000.0,2.0,2.0,1800.0
+246,"1000 W Diversey Pkwy Apt 3A Chicago, IL 60614",450000.0,2.0,1.5,1800.0
+247,"9365 Windsor Pkwy # 158 Tinley Park, IL 60487",169500.0,2.0,1.5,1800.0
+248,"3118 N Lincoln Ave Apt 4B Chicago, IL 60657",530000.0,3.0,2.0,1790.0
+249,"21 E Huron St Apt 1702 Chicago, IL 60611",1030000.0,2.0,2.5,1786.0
+250,"21 E Huron St Apt 2406 Chicago, IL 60611",1000000.0,2.0,2.5,1786.0
+251,"1501 N State Pkwy Apt 10C Chicago, IL 60610",635000.0,2.0,2.0,1785.0
+252,"1870 Dogwood Dr Hoffman Estates, IL 60192",265000.0,3.0,2.0,1782.0
+253,"4603 N Racine Ave Apt 302 Chicago, IL 60640",419000.0,3.0,2.0,1780.0
+254,"55 E Erie St Apt 2604 Chicago, IL 60611",980000.0,3.0,2.0,1762.0
+255,"33 W Huron St Apt 304 Chicago, IL 60654",770000.0,2.0,2.0,1761.0
+256,"4740 S Paulina St Chicago, IL 60609",110000.0,4.0,4.0,1758.0
+257,"6430 W Berteau Ave Apt 206 Chicago, IL 60634",229500.0,2.0,2.0,1756.0
+258,"567 W Parkside Dr Palatine, IL 60067",275000.0,3.0,2.5,1750.0
+259,"1122 N Dearborn St # P40 Chicago, IL 60610",800000.0,3.0,2.5,1750.0
+260,"3410 S Calumet Ave Apt 4 Chicago, IL 60616",215000.0,3.0,2.0,1750.0
+261,"2139 W Roscoe St Unit 2E Chicago, IL 60618",555000.0,3.0,2.0,1750.0
+262,"1120 W Oakdale Ave Apt 1F Chicago, IL 60657",467000.0,3.0,2.0,1750.0
+263,"843 W Gunnison St Apt 2W Chicago, IL 60640",395000.0,2.0,2.0,1750.0
+264,"1875 Old Willow Rd Unit 131 Northfield, IL 60093",425000.0,2.0,2.0,1750.0
+265,"1035 W Huron St Apt 504 Chicago, IL 60642",448000.0,2.0,2.0,1750.0
+266,"3401 N Carriageway Dr Unit 205 Arlington Heights, IL 60004",251500.0,2.0,2.0,1723.0
+267,"6624 Martin France Cir Apt 3A Tinley Park, IL 60477",65000.0,2.0,2.0,1720.0
+268,"3755 N Racine Ave Apt 3D Chicago, IL 60613",515000.0,3.0,2.5,1719.0
+269,"100 E Huron St Apt 3103 Chicago, IL 60611",765000.0,2.0,3.0,1717.0
+270,"656 W Buckingham Pl Apt 1E Chicago, IL 60657",442000.0,3.0,2.5,1700.0
+271,"211 E Ohio St Apt 2807 Chicago, IL 60611",605000.0,3.0,2.5,1700.0
+272,"1505 N Artesian Ave # 2 Chicago, IL 60622",423000.0,3.0,2.5,1700.0
+273,"960 Enfield Dr # 3-F4 Northbrook, IL 60062",335000.0,3.0,2.5,1700.0
+274,"1887 N Poe St Apt 1F Chicago, IL 60614",535000.0,2.0,2.5,1700.0
+275,"2011 W Concord Pl Apt A Chicago, IL 60647",435000.0,2.0,2.5,1700.0
+276,"4417 N Malden St Chicago, IL 60640",365000.0,3.0,2.0,1700.0
+277,"4419 N Beacon St Apt 3N Chicago, IL 60640",380000.0,3.0,2.0,1700.0
+278,"1332 W Madison St Apt 3E Chicago, IL 60607",680000.0,3.0,2.0,1700.0
+279,"646 E 51st St Apt 3E Chicago, IL 60615",164000.0,3.0,2.0,1700.0
+280,"615 N Noble St Apt 2S Chicago, IL 60642",489000.0,3.0,2.0,1700.0
+281,"1257 N Campbell Ave Apt 4 Chicago, IL 60622",415000.0,3.0,2.0,1700.0
+282,"812 W Waveland Ave Apt 2 Chicago, IL 60613",487000.0,3.0,2.0,1700.0
+283,"1030 N State St Apt 12M Chicago, IL 60610",635000.0,3.0,2.0,1700.0
+284,"1749 N Wells St Apt 1610 Chicago, IL 60614",624000.0,2.0,2.0,1700.0
+285,"70 E 18th St Unit 4D Chicago, IL 60616",465000.0,2.0,2.0,1700.0
+286,"630 W Wrightwood Ave Apt 2W Chicago, IL 60614",578000.0,2.0,2.0,1700.0
+287,"411 S Sangamon St Apt 6C Chicago, IL 60607",565000.0,2.0,1.0,1700.0
+288,"11230 Sycamore Ln # 59C Palos Hills, IL 60465",144500.0,3.0,2.0,1696.0
+289,"1825 N Winnebago Ave # P-12 Chicago, IL 60647",493000.0,3.0,2.0,1687.0
+290,"680 N Lake Shore Dr Apt 1407 Chicago, IL 60611",580000.0,2.0,1.5,1682.0
+291,"1225 Court C Hanover Park, IL 60133",174000.0,4.0,2.5,1680.0
+292,"1737 N Paulina St Apt 303 Chicago, IL 60622",427500.0,2.0,1.5,1680.0
+293,"222 N Columbus Dr Apt 4901 Chicago, IL 60601",760000.0,3.0,2.5,1675.0
+294,"100 E Huron St Apt 4301 Chicago, IL 60611",825000.0,2.0,2.5,1657.0
+295,"701 S Wells St Apt 3106 Chicago, IL 60607",530000.0,3.0,2.5,1652.0
+296,"2554 W Logan Blvd Apt 302 Chicago, IL 60647",425000.0,3.0,2.0,1650.0
+297,"1117 W Armitage Ave Apt 2W Chicago, IL 60614",630000.0,2.0,2.0,1650.0
+298,"5201 S Blackstone Ave Apt 1W Chicago, IL 60615",255000.0,2.0,2.0,1650.0
+299,"7601 Lincoln Ave Apt 508 Skokie, IL 60077",162000.0,2.0,2.0,1650.0
+300,"411 S Sangamon St Apt 4B Chicago, IL 60607",490000.0,2.0,2.0,1650.0
+301,"3150 N Lake Shore Dr Apt 23D Chicago, IL 60657",425000.0,2.0,2.0,1650.0
+302,"3150 N Lake Shore Dr Apt 25D Chicago, IL 60657",390000.0,2.0,2.0,1650.0
+303,"1244 W Fullerton Ave Chicago, IL 60614",444000.0,2.0,1.5,1650.0
+304,"1335 W Altgeld St Apt 2D Chicago, IL 60614",445000.0,2.0,1.5,1650.0
+305,"165 N Canal St Apt 1313 Chicago, IL 60606",530000.0,2.0,2.0,1648.0
+306,"3400 N Lake Shore Dr Apt 5F Chicago, IL 60657",585000.0,2.0,2.0,1640.0
+307,"1601 W Altgeld St Apt 2C Chicago, IL 60614",426000.0,3.0,2.0,1630.0
+308,"936 Violet Dr Hanover Park, IL 60133",220000.0,3.0,3.5,1616.0
+309,"904 Violet Dr Hanover Park, IL 60133",263000.0,3.0,3.5,1616.0
+310,"1069 W 14th Pl Unit 323 Chicago, IL 60608",474000.0,3.0,2.0,1616.0
+311,"6336 N Rockwell St Apt 3 Chicago, IL 60659",200000.0,3.0,3.5,1600.0
+312,"609 W Stratford Pl Apt 6C Chicago, IL 60657",415000.0,3.0,2.5,1600.0
+313,"1834 N Halsted St Apt C Chicago, IL 60614",515000.0,2.0,2.5,1600.0
+314,"1820 W Norwood St Apt A Chicago, IL 60660",289000.0,2.0,2.5,1600.0
+315,"3953 N Hermitage Ave # C Chicago, IL 60613",495000.0,2.0,2.5,1600.0
+316,"110 E Delaware Pl Apt 1204 Chicago, IL 60611",365000.0,2.0,2.5,1600.0
+317,"3543 N Bosworth Ave Apt D Chicago, IL 60657",580000.0,3.0,2.0,1600.0
+318,"1640 E 50th St Apt 13B Chicago, IL 60615",85000.0,3.0,2.0,1600.0
+319,"247 E Chestnut St Apt 1201 Chicago, IL 60611",430000.0,3.0,2.0,1600.0
+320,"1056 W Lawrence Ave Apt 2C Chicago, IL 60640",333000.0,2.0,2.0,1600.0
+321,"3925 Triumvera Dr Apt 8E Glenview, IL 60025",151000.0,2.0,2.0,1600.0
+322,"4250 N Mozart St # 3N Chicago, IL 60618",327000.0,2.0,2.0,1600.0
+323,"1640 E 50th St Apt 5A Chicago, IL 60615",64500.0,2.0,2.0,1600.0
+324,"11911 Windemere Ct Apt 104 Orland Park, IL 60467",208000.0,2.0,2.0,1600.0
+325,"11910 Windemere Ct Apt 404 Orland Park, IL 60467",211000.0,2.0,2.0,1600.0
+326,"77 E 16th St # 77-2 Chicago, IL 60616",410000.0,2.0,2.0,1600.0
+327,"2820 N Sheffield Ave Apt 4S Chicago, IL 60657",625000.0,2.0,2.0,1600.0
+328,"1237 W Farwell Ave Apt 2E Chicago, IL 60626",300000.0,2.0,2.0,1600.0
+329,"1840 W Diversey Pkwy Apt H Chicago, IL 60614",412500.0,2.0,2.0,1600.0
+330,"630 W Wrightwood Ave Side 1E Chicago, IL 60614",475000.0,2.0,2.0,1600.0
+331,"9240 Gross Point Rd Apt 205A Skokie, IL 60077",161000.0,2.0,2.0,1600.0
+332,"6743 S Pointe Dr Unit 2D Tinley Park, IL 60477",174000.0,2.0,2.0,1600.0
+333,"1813 S Clark St Apt 35 Chicago, IL 60616",430000.0,2.0,2.0,1600.0
+334,"3109 W Sunnyside Ave Apt 1 Chicago, IL 60625",285000.0,1.0,2.0,1600.0
+335,"1702 N Dayton St Apt 2 Chicago, IL 60614",685500.0,3.0,1.5,1600.0
+336,"1839 N Bissell St # 3 Chicago, IL 60614",437000.0,2.0,1.5,1600.0
+337,"5055 Madison St Skokie, IL 60077",245000.0,2.0,2.0,1597.0
+338,"5821 Chatsworth Ct Hanover Park, IL 60133",280000.0,3.0,2.0,1587.0
+339,"5240 Arlington Cir # C1 Hanover Park, IL 60133",249000.0,3.0,2.0,1587.0
+340,"2601 Central St Unit 501 Evanston, IL 60201",345000.0,2.0,2.0,1586.0
+341,"7201 N Lincoln Ave Apt 211 Lincolnwood, IL 60712",188000.0,2.0,2.0,1585.0
+342,"410 W Mahogany Ct Unit 409 Palatine, IL 60067",215000.0,2.0,2.0,1583.0
+343,"3944 N Claremont Ave Unit 408 Chicago, IL 60618",430000.0,3.0,2.0,1581.0
+344,"360 E Randolph St Apt 3604 Chicago, IL 60601",1375000.0,2.0,2.0,1580.0
+345,"8100 W Foster Ln Apt 303 Niles, IL 60714",220000.0,2.0,2.0,1570.0
+346,"1749 N Wells St Apt 813 Chicago, IL 60614",566000.0,2.0,2.5,1550.0
+347,"1749 N Wells St Apt 613 Chicago, IL 60614",547500.0,2.0,2.5,1550.0
+348,"990 N Lake Shore Dr Apt 10D Chicago, IL 60611",560000.0,2.0,2.0,1550.0
+349,"2449 W Logan Blvd Apt 3N Chicago, IL 60647",362500.0,2.0,2.0,1550.0
+350,"18428 Millennium Dr Tinley Park, IL 60477",181000.0,2.0,1.5,1550.0
+351,"407 N Elizabeth St Apt 202 Chicago, IL 60642",484000.0,2.0,1.5,1550.0
+352,"680 N Lake Shore Dr Apt 410 Chicago, IL 60611",390000.0,1.0,1.5,1548.0
+353,"901 Huntington Dr Elk Grove Village, IL 60007",265000.0,3.0,2.5,1546.0
+354,"16001 S 88th Ave Unit 403 Orland Park, IL 60462",158500.0,2.0,2.0,1545.0
+355,"1321 N Bosworth Ave Chicago, IL 60642",490000.0,2.0,2.0,1538.0
+356,"4707 N Kenmore Ave # 3-N Chicago, IL 60640",362500.0,2.0,2.0,1534.0
+357,"5300 N Lincoln Ave Apt 2D Chicago, IL 60625",423500.0,3.0,2.0,1527.0
+358,"1524 S Sangamon St Unit 808-S Chicago, IL 60608",365000.0,3.0,2.0,1525.0
+359,"38 6th Ave Apt A3 La Grange, IL 60525",240000.0,2.0,1.5,1523.0
+360,"79 E 16th St Unit 3 Chicago, IL 60616",152000.0,2.0,2.0,1520.0
+361,"18245 66th Ct Apt 3A Tinley Park, IL 60477",158000.0,2.0,2.0,1520.0
+362,"4420 N Malden St Apt 2 Chicago, IL 60640",379500.0,3.0,2.0,1516.0
+363,"1235 S Prairie Ave Apt 504 Chicago, IL 60605",560000.0,2.0,2.0,1516.0
+364,"3041 S Michigan Ave Unit 504 Chicago, IL 60616",155000.0,3.0,2.5,1500.0
+365,"759 Scott Chicago, IL 60610",485000.0,3.0,2.5,1500.0
+366,"2217 N Oakley Ave Apt 1N Chicago, IL 60647",440000.0,2.0,2.5,1500.0
+367,"4736 N Lincoln Ave Apt 2S Chicago, IL 60625",516000.0,3.0,2.0,1500.0
+368,"1777 W Crystal Ln Unit 711 Mount Prospect, IL 60056",173000.0,3.0,2.0,1500.0
+369,"11221 S Kean Ave Palos Hills, IL 60465",166000.0,3.0,2.0,1500.0
+370,"1127 W Chestnut St Apt 1N Chicago, IL 60642",362500.0,2.0,2.0,1500.0
+371,"920 W Madison St Apt A6 Chicago, IL 60607",611500.0,2.0,2.0,1500.0
+372,"4890 N Ashland Ave Apt 2N Chicago, IL 60640",345000.0,2.0,2.0,1500.0
+373,"6933 N Kedzie Ave Apt 709 Chicago, IL 60645",131000.0,2.0,2.0,1500.0
+374,"505 Sheridan Rd Apt 3W Evanston, IL 60202",325000.0,2.0,2.0,1500.0
+375,"9386 Landings Ln Unit 206 Des Plaines, IL 60016",137000.0,2.0,2.0,1500.0
+376,"428 N Noble St Apt 3 Chicago, IL 60642",415000.0,2.0,2.0,1500.0
+377,"1610 W Fullerton Ave Unit 504 Chicago, IL 60614",450000.0,2.0,2.0,1500.0
+378,"4635 N Malden St Apt 3S Chicago, IL 60640",361000.0,2.0,2.0,1500.0
+379,"3561 W Lyndale St # 3W Chicago, IL 60647",340000.0,2.0,2.0,1500.0
+380,"1020 W Armitage Ave Apt 2A Chicago, IL 60614",790000.0,2.0,2.0,1500.0
+381,"1425 W Roscoe St Apt 3W Chicago, IL 60657",600000.0,2.0,2.0,1500.0
+382,"4315 N Kenmore Ave Apt 3N Chicago, IL 60613",370000.0,2.0,2.0,1500.0
+383,"1301 W Madison St Apt 501 Chicago, IL 60607",560000.0,2.0,2.0,1500.0
+384,"1127 W Chestnut St # 3-3-G Chicago, IL 60642",605000.0,2.0,2.0,1500.0
+385,"1717 W Newport Ave Apt 4 Chicago, IL 60657",457500.0,2.0,2.0,1500.0
+386,"1230 W Hood Ave # 2 Chicago, IL 60660",351500.0,2.0,2.0,1500.0
+387,"1255 N State Pkwy Apt 2E Chicago, IL 60610",499000.0,2.0,2.0,1500.0
+388,"312 N May St Apt 3F Chicago, IL 60607",500000.0,2.0,1.5,1500.0
+389,"1872 N Clybourn Ave Apt 112 Chicago, IL 60614",457000.0,2.0,1.5,1500.0
+390,"3445 N Elaine Pl Apt 2N Chicago, IL 60657",410000.0,3.0,1.0,1500.0
+391,"127 Washington Blvd Apt 2 Oak Park, IL 60302",122000.0,3.0,1.0,1500.0
+392,"8134 S Calumet Ave Chicago, IL 60619",102000.0,2.0,1.0,1500.0
+393,"2041 W Berwyn Ave # 3 Chicago, IL 60625",297500.0,2.0,1.0,1500.0
+394,"1476 Perry St Unit 302 Des Plaines, IL 60016",210000.0,2.0,2.0,1492.0
+395,"175 E Delaware Pl Apt 6910 Chicago, IL 60611",595000.0,2.0,2.0,1483.0
+396,"4616 W Waveland Ave Chicago, IL 60641",569750.0,3.0,2.5,1480.0
+397,"505 N Lake Shore Dr Apt 3708 Chicago, IL 60611",612000.0,2.0,2.0,1480.0
+398,"1610 E Andover Dr Hanover Park, IL 60133",218000.0,4.0,2.0,1476.0
+399,"3300 W Irving Park Rd Unit H2 Chicago, IL 60618",315000.0,3.0,2.0,1475.0
+400,"5555 N Cumberland Ave Unit 703 Chicago, IL 60656",280000.0,2.0,2.0,1457.0
+401,"817 Hinman Ave Apt 2E Evanston, IL 60202",380000.0,1.0,1.5,1457.0
+402,"1440 S Michigan Ave Apt 418 Chicago, IL 60605",457000.0,3.0,2.5,1450.0
+403,"3427 Vollmer Rd Unit 204 Flossmoor, IL 60422",145000.0,3.0,2.0,1450.0
+404,"4250 N Marine Dr Apt 1436 Chicago, IL 60613",330000.0,2.0,2.0,1450.0
+405,"505 N Lake Shore Dr Apt 3912 Chicago, IL 60611",610000.0,2.0,2.0,1450.0
+406,"4150 N Sheridan Rd Chicago, IL 60613",400000.0,2.0,2.0,1450.0
+407,"2900 W Irving Park Rd Apt 404 Chicago, IL 60618",331000.0,2.0,2.0,1450.0
+408,"633 S Plymouth Ct Apt 302 Chicago, IL 60605",319000.0,1.0,1.5,1450.0
+409,"333 W Hubbard St Apt 912 Chicago, IL 60654",485000.0,2.0,2.0,1448.0
+410,"1501 S Indiana Ave Unit O Chicago, IL 60605",509000.0,2.0,2.5,1447.0
+411,"21 E Huron St Apt 1003 Chicago, IL 60611",705000.0,2.0,2.0,1446.0
+412,"203 S Sangamon St Apt 308 Chicago, IL 60607",555000.0,2.0,2.0,1445.0
+413,"1033 E 46th St Apt 302 Chicago, IL 60653",242500.0,2.0,2.0,1440.0
+414,"4005 N Kenmore Ave Apt 3 Chicago, IL 60613",324000.0,2.0,1.5,1440.0
+415,"833 W Belle Plaine Ave Apt 2 Chicago, IL 60613",415000.0,3.0,2.0,1438.0
+416,"2235 N Lister Ave Apt 202 Chicago, IL 60614",413000.0,3.0,2.0,1435.0
+417,"175 E Delaware Pl Apt 6906 Chicago, IL 60611",580000.0,2.0,2.0,1408.0
+418,"6245 W 90th Pl Oak Lawn, IL 60453",300000.0,3.0,1.5,1407.0
+419,"330 W Diversey Pkwy Apt 502 Chicago, IL 60657",367500.0,3.0,2.0,1403.0
+420,"182 W Lake St Apt 2206 Chicago, IL 60601",412000.0,2.0,2.0,1403.0
+421,"1801 S Michigan Ave Unit 206 Chicago, IL 60616",450000.0,2.0,2.5,1400.0
+422,"1500 N La Salle Dr Apt 1D Chicago, IL 60610",467500.0,3.0,2.0,1400.0
+423,"950 E Wilmette Rd # AV409 Palatine, IL 60074",156000.0,3.0,2.0,1400.0
+424,"1547 W Farwell Ave Chicago, IL 60626",246000.0,3.0,2.0,1400.0
+425,"7043 W 74th Pl Chicago, IL 60638",370000.0,3.0,2.0,1400.0
+426,"1500 N La Salle Dr Apt 1B Chicago, IL 60610",420000.0,2.0,2.0,1400.0
+427,"2840 W Hollywood Ave Apt 1W Chicago, IL 60659",226000.0,2.0,2.0,1400.0
+428,"1212 N Wells St Apt 1305 Chicago, IL 60610",477500.0,2.0,2.0,1400.0
+429,"1526 W Chicago Ave Apt 2 Chicago, IL 60642",430000.0,2.0,2.0,1400.0
+430,"1326 W Belmont Ave # 2 Chicago, IL 60657",435000.0,2.0,2.0,1400.0
+431,"11 N Green St Unit 2C Chicago, IL 60607",560000.0,2.0,2.0,1400.0
+432,"701 W Jackson Blvd Apt 304 Chicago, IL 60661",470500.0,2.0,2.0,1400.0
+433,"2135 N Southport Ave Apt 102 Chicago, IL 60614",349000.0,2.0,2.0,1400.0
+434,"7801 Niles Center Rd Apt 101 Skokie, IL 60077",160000.0,2.0,2.0,1400.0
+435,"2119 N Damen Ave Apt 3 Chicago, IL 60647",490000.0,2.0,2.0,1400.0
+436,"1144 W Diversey Pkwy Apt 4 Chicago, IL 60614",527000.0,2.0,2.0,1400.0
+437,"1 Renaissance Pl Unit 1100 Palatine, IL 60067",137000.0,2.0,2.0,1400.0
+438,"4250 N Marine Dr Apt 2315 Chicago, IL 60613",300000.0,2.0,2.0,1400.0
+439,"1250 N Dearborn St Apt 12A Chicago, IL 60610",465000.0,2.0,2.0,1400.0
+440,"3758 N Fremont St # 2 Chicago, IL 60613",440000.0,2.0,2.0,1400.0
+441,"651 W Buckingham Pl # 2E Chicago, IL 60657",394000.0,2.0,1.5,1400.0
+442,"5823 N Ravenswood Ave Apt 101 Chicago, IL 60660",310000.0,2.0,1.5,1400.0
+443,"1831 N Fremont St # 2F Chicago, IL 60614",3495000.0,2.0,1.5,1400.0
+444,"1000 W Washington Blvd Unit 517 Chicago, IL 60607",10250000.0,1.0,1.5,1400.0
+445,"1640 E 50th St Apt 22A Chicago, IL 60615",135000.0,1.0,1.5,1400.0
+446,"606 W Aldine Ave Apt 3E Chicago, IL 60657",450000.0,2.0,1.0,1400.0
+447,"312 Wisconsin Ave # 3S Oak Park, IL 60302",279500.0,2.0,1.0,1400.0
+448,"411 S Sangamon St # 52 Chicago, IL 60607",400000.0,2.0,1.0,1400.0
+449,"1060 Shermer Rd Apt 28 Northbrook, IL 60062",281000.0,2.0,1.5,1396.0
+450,"2800 N Lake Shore Dr Apt 2116 Chicago, IL 60657",550000.0,2.0,2.0,1394.0
+451,"3634 N Fremont St Apt 4 Chicago, IL 60613",505000.0,2.0,2.0,1394.0
+452,"16001 S 88th Ave Unit 204 Orland Park, IL 60462",145000.0,2.0,2.0,1392.0
+453,"850 N Dewitt Pl Apt 12A Chicago, IL 60611",332000.0,2.0,2.0,1385.0
+454,"2146 W Madison St # 2 Chicago, IL 60612",242500.0,3.0,2.0,1380.0
+455,"1350 W Fullerton Ave Apt 414 Chicago, IL 60614",435000.0,2.0,2.0,1380.0
+456,"3631 N Halsted St Apt 208 Chicago, IL 60613",475000.0,2.0,2.0,1380.0
+457,"520 W Huron St Apt 120 Chicago, IL 60654",467000.0,2.0,2.0,1380.0
+458,"124 W Polk St Apt 702 Chicago, IL 60605",240000.0,2.0,1.0,1375.0
+459,"660 McHenry Rd Apt 105 Wheeling, IL 60090",185000.0,2.0,2.0,1372.0
+460,"7059 N Damen Ave # G Chicago, IL 60645",177500.0,2.0,1.0,1367.0
+461,"1802 Maple Ave Northbrook, IL 60062",349500.0,3.0,1.0,1365.0
+462,"1433 Perry St Apt 302 Des Plaines, IL 60016",200000.0,2.0,2.0,1360.0
+463,"218 S Laflin St Apt 101 Chicago, IL 60607",430000.0,2.0,1.5,1360.0
+464,"780 S Federal St Apt 208 Chicago, IL 60605",315000.0,2.0,2.0,1354.0
+465,"1640 Maple Ave Apt 1205 Evanston, IL 60201",405000.0,2.0,2.0,1353.0
+466,"1515 E 69th St Apt 3E Chicago, IL 60637",135000.0,3.0,2.0,1350.0
+467,"200 W Grand Ave Apt 1101 Chicago, IL 60654",485000.0,3.0,2.0,1350.0
+468,"4814 N Damen Ave Apt 309 Chicago, IL 60625",391500.0,2.0,2.0,1350.0
+469,"4911 N Lincoln Ave # 1 Chicago, IL 60625",317000.0,2.0,2.0,1350.0
+470,"1350 W Fullerton Ave # P-31 Chicago, IL 60614",612750.0,2.0,2.0,1350.0
+471,"4814 N Damen Ave Apt 409 Chicago, IL 60625",392000.0,2.0,2.0,1350.0
+472,"1729 N Clybourn Ave Ste 2G Chicago, IL 60614",382000.0,2.0,2.0,1350.0
+473,"2147 W Rice St Apt 2E Chicago, IL 60622",419000.0,2.0,2.0,1350.0
+474,"1440 N Lake Shore Dr Apt 29E Chicago, IL 60610",580000.0,2.0,2.0,1350.0
+475,"680 N Green St Apt 311 Chicago, IL 60642",365000.0,2.0,2.0,1350.0
+476,"2031 W Evergreen Ave Apt 3W Chicago, IL 60622",429000.0,2.0,2.0,1350.0
+477,"7305 W 61st Pl Summit, IL 60501",156000.0,3.0,1.0,1350.0
+478,"8809 W Golf Rd Apt 3H Niles, IL 60714",135000.0,1.0,1.0,1350.0
+479,"1212 N Wells St Apt 801 Chicago, IL 60610",485000.0,2.0,2.0,1341.0
+480,"470 W Mahogany Ct Unit 603 Palatine, IL 60067",195000.0,2.0,2.0,1340.0
+481,"470 W Mahogany Ct Unit 507 Palatine, IL 60067",191000.0,2.0,2.0,1340.0
+482,"1749 N Wells St Apt 612 Chicago, IL 60614",515500.0,2.0,2.0,1340.0
+483,"440 W Mahogany Ct Unit 508 Palatine, IL 60067",195000.0,2.0,2.0,1337.0
+484,"1503 Crawford Ln Hanover Park, IL 60133",211000.0,4.0,2.0,1336.0
+485,"801 S Prospect Ave Park Ridge, IL 60068",380000.0,2.0,2.5,1334.0
+486,"3731 Dory Cir W Hanover Park, IL 60133",178500.0,3.0,1.5,1331.0
+487,"1448 Merrimac Ln S Hanover Park, IL 60133",175000.0,3.0,1.5,1331.0
+488,"1616 W Montrose Ave Apt 2E Chicago, IL 60613",334500.0,2.0,2.0,1330.0
+489,"2403 W Flournoy St Chicago, IL 60612",245000.0,2.0,1.5,1330.0
+490,"455 W Wood St Unit 305 Palatine, IL 60067",265000.0,2.0,2.0,1329.0
+491,"21 W Bradley St Des Plaines, IL 60016",345000.0,4.0,2.0,1326.0
+492,"500 S Clinton St Apt 232 Chicago, IL 60607",309500.0,2.0,2.0,1326.0
+493,"125 S Jefferson St Unit 1302 Chicago, IL 60661",458000.0,2.0,2.0,1326.0
+494,"2045 W Concord Pl Apt 502 Chicago, IL 60647",516000.0,2.0,2.0,1325.0
+495,"933 W Van Buren St Apt 404 Chicago, IL 60607",464000.0,2.0,2.0,1325.0
+496,"1000 W Adams St Apt 810 Chicago, IL 60607",530000.0,2.0,2.0,1323.0
+497,"1749 N Wells St Apt 806 Chicago, IL 60614",488500.0,2.0,2.0,1322.0
+498,"333 N Canal St Apt 1403 Chicago, IL 60606",461000.0,2.0,1.5,1316.0
+499,"1530 S State St Apt 611 Chicago, IL 60605",374000.0,2.0,2.0,1315.0
+500,"1000 W Adams St Apt 611 Chicago, IL 60607",510000.0,2.0,2.0,1305.0
+501,"21 W Chestnut St Apt 1601 Chicago, IL 60610",660000.0,2.0,2.0,1302.0
+502,"111 S Morgan St Apt 901 Chicago, IL 60607",530000.0,2.0,2.0,1302.0
+503,"3338 N Damen Ave # 2 Chicago, IL 60618",425000.0,2.0,2.5,1300.0
+504,"9819 S Keeler Ave Apt 2C Oak Lawn, IL 60453",125000.0,3.0,2.0,1300.0
+505,"812 S Miller St # 3S Chicago, IL 60607",315000.0,3.0,2.0,1300.0
+506,"3249 N Racine Ave Apt 3 Chicago, IL 60657",460000.0,2.0,2.0,1300.0
+507,"2512 W Bloomingdale Ave Apt B Chicago, IL 60647",400000.0,2.0,2.0,1300.0
+508,"3454 N Ashland Ave Apt 4S Chicago, IL 60657",453000.0,2.0,2.0,1300.0
+509,"15 S Throop St Apt 301 Chicago, IL 60607",600000.0,2.0,2.0,1300.0
+510,"942 N Wolcott Ave Chicago, IL 60622",441000.0,2.0,2.0,1300.0
+511,"227 E Walton Pl Apt 9W Chicago, IL 60611",429000.0,2.0,2.0,1300.0
+512,"1950 W Armitage Ave # 3 Chicago, IL 60622",491500.0,2.0,2.0,1300.0
+513,"2327 N Geneva Ter # 3 Chicago, IL 60614",459500.0,2.0,2.0,1300.0
+514,"101 Bar Harbour Rd Unit 2R Schaumburg, IL 60193",145000.0,2.0,2.0,1300.0
+515,"807 W University Ln Unit 3B Chicago, IL 60608",355000.0,2.0,2.0,1300.0
+516,"2911 N Western Ave Apt 411 Chicago, IL 60618",328000.0,2.0,2.0,1300.0
+517,"1528 W Fargo Ave Apt 2S Chicago, IL 60626",186000.0,2.0,2.0,1300.0
+518,"4458 N Albany Ave # 3 Chicago, IL 60625",281000.0,2.0,2.0,1300.0
+519,"2605 S Indiana Ave Unit 1101 Chicago, IL 60616",160000.0,2.0,2.0,1300.0
+520,"106 S Ridgeland Ave Apt 402 Oak Park, IL 60302",330000.0,2.0,2.0,1300.0
+521,"6740 180th St Apt 2W Tinley Park, IL 60477",146000.0,2.0,2.0,1300.0
+522,"4649 N Dover St Apt 1 Chicago, IL 60640",300000.0,3.0,1.5,1300.0
+523,"100 E Lillian Ave Apt 2D Arlington Heights, IL 60004",160000.0,2.0,1.5,1300.0
+524,"2836 N Southport Ave # C Chicago, IL 60657",465000.0,2.0,1.5,1300.0
+525,"320 W Oakdale Ave Apt 403 Chicago, IL 60657",340000.0,2.0,1.5,1300.0
+526,"3320 N Lincoln Ave Chicago, IL 60657",251500.0,1.0,1.5,1300.0
+527,"1634 W Columbia Ave Apt 3N Chicago, IL 60626",195000.0,2.0,1.0,1300.0
+528,"811 N Racine Ave Chicago, IL 60642",326000.0,2.0,1.0,1300.0
+529,"4420 N Clark St Apt 204 Chicago, IL 60640",344000.0,2.0,2.0,1299.0
+530,"5669 Tiburon Ct Hanover Park, IL 60133",118000.0,3.0,1.5,1296.0
+531,"3616 N Janssen Ave Apt 2N Chicago, IL 60613",440000.0,2.0,2.0,1293.0
+532,"1740 N Marshfield Ave Apt 8 Chicago, IL 60622",392000.0,2.0,1.5,1290.0
+533,"1313 N Ritchie Ct Apt 504 Chicago, IL 60610",660000.0,2.0,2.0,1285.0
+534,"919 N Wolcott Ave # PU-4 Chicago, IL 60622",460000.0,2.0,2.0,1280.0
+535,"1111 S Wabash Ave Apt 803 Chicago, IL 60605",415000.0,2.0,2.0,1278.0
+536,"1339 W Lunt Ave Apt 3M Chicago, IL 60626",191000.0,2.0,2.0,1276.0
+537,"1560 Windjammer Ln Hanover Park, IL 60133",249000.0,3.0,2.0,1274.0
+538,"1308 Sea Biscuit Ln Hanover Park, IL 60133",216500.0,3.0,2.0,1268.0
+539,"515 Main St Apt 909 Evanston, IL 60202",345000.0,2.0,2.0,1268.0
+540,"550 W Fulton St Apt 206 Chicago, IL 60661",505000.0,2.0,2.0,1262.0
+541,"2915 N Clybourn Ave Unit 201 Chicago, IL 60618",330000.0,2.0,2.0,1261.0
+542,"2843 W Belmont Ave Chicago, IL 60618",1300000.0,2.0,1.0,1260.0
+543,"9355 Irving Park Rd Apt 322 Schiller Park, IL 60176",161500.0,2.0,2.0,1258.0
+544,"1143 S Plymouth Ct Apt 105 Chicago, IL 60605",405000.0,2.0,2.5,1250.0
+545,"1115 S Plymouth Ct Apt 125 Chicago, IL 60605",310000.0,2.0,2.5,1250.0
+546,"2650 N Lakeview Ave Apt 3501 Chicago, IL 60614",460000.0,2.0,2.0,1250.0
+547,"1450 N Astor St Apt 10B Chicago, IL 60610",412000.0,2.0,2.0,1250.0
+548,"6933 N Kedzie Ave Apt 1113 Chicago, IL 60645",142000.0,2.0,2.0,1250.0
+549,"5415 N Sheridan Rd Apt 1901 Chicago, IL 60640",284500.0,2.0,2.0,1250.0
+550,"2254 W Adams St Apt 2 Chicago, IL 60612",199000.0,2.0,2.0,1250.0
+551,"801 S Plymouth Ct Apt 201 Chicago, IL 60605",332500.0,2.0,2.0,1250.0
+552,"71 E Division St Apt 901 Chicago, IL 60610",390000.0,2.0,2.0,1250.0
+553,"40 E 9th St Apt 1416 Chicago, IL 60605",300000.0,2.0,2.0,1250.0
+554,"247 W Scott St Apt 208 Chicago, IL 60610",465000.0,2.0,2.0,1250.0
+555,"613 N Noble St # 2 Chicago, IL 60642",365000.0,2.0,2.0,1250.0
+556,"40 E Delaware Pl Apt 501 Chicago, IL 60611",415000.0,2.0,2.0,1250.0
+557,"6642 S Kimbark Ave Apt 2S Chicago, IL 60637",179000.0,2.0,2.0,1250.0
+558,"701 W Jackson Blvd Apt 401A Chicago, IL 60661",400500.0,2.0,1.5,1250.0
+559,"6166 N Sheridan Rd Apt 26H Chicago, IL 60660",125000.0,2.0,1.5,1250.0
+560,"952 Pleasant St Apt 3G Oak Park, IL 60302",202500.0,2.0,1.0,1250.0
+561,"1473 W Foster Ave # 3 Chicago, IL 60640",315000.0,2.0,1.0,1250.0
+562,"5874 E Beverly Cir Hanover Park, IL 60133",120000.0,3.0,2.0,1248.0
+563,"5852 Chatsworth Ct Hanover Park, IL 60133",250000.0,3.0,2.0,1248.0
+564,"4710 N Elston Ave Apt 306 Chicago, IL 60630",229000.0,2.0,2.0,1245.0
+565,"655 W Irving Park Rd Apt 801 Chicago, IL 60613",315000.0,2.0,2.0,1240.0
+566,"3660 N Lake Shore Dr Apt 1701 Chicago, IL 60613",380000.0,2.0,2.0,1240.0
+567,"1330 W Monroe St Apt 310 Chicago, IL 60607",420000.0,2.0,1.0,1232.0
+568,"1685 Mill St Apt 301 Des Plaines, IL 60016",192000.0,2.0,1.0,1230.0
+569,"1000 W Leland Ave Apt 11B Chicago, IL 60640",375000.0,2.0,2.0,1228.0
+570,"5865 Charleston Ct Hanover Park, IL 60133",140000.0,4.0,2.0,1225.0
+571,"510 W Erie St Apt 1106 Chicago, IL 60654",467000.0,2.0,2.0,1225.0
+572,"222 N Columbus Dr Apt 2708 Chicago, IL 60601",405000.0,2.0,2.0,1225.0
+573,"2919 N Harlem Ave Apt 403 Chicago, IL 60707",210000.0,2.0,2.0,1223.0
+574,"2505 Prairie Ave Apt 3L Evanston, IL 60201",212000.0,2.0,2.0,1222.0
+575,"500 W Superior St Unit 613 Chicago, IL 60654",590000.0,2.0,2.0,1220.0
+576,"133 Patrick Ave # 1902C Willow Springs, IL 60480",216000.0,3.0,2.5,1219.0
+577,"3890 Windjammer Ln Hanover Park, IL 60133",265000.0,4.0,2.0,1214.0
+578,"933 W Van Buren St Apt 416 Chicago, IL 60607",386000.0,2.0,2.0,1213.0
+579,"21 E Huron St Apt 3802 Chicago, IL 60611",650000.0,1.0,1.5,1210.0
+580,"1212 N Wells St Apt 804 Chicago, IL 60610",460000.0,2.0,2.0,1205.0
+581,"5538 N Glenwood Ave Apt A Chicago, IL 60640",487000.0,3.0,2.5,1200.0
+582,"345 Grissom Ct Hoffman Estates, IL 60169",157500.0,2.0,2.5,1200.0
+583,"1987 Gary Ct Unit C Schaumburg, IL 60193",170000.0,2.0,2.0,1200.0
+584,"345 W Fullerton Pkwy Apt 904 Chicago, IL 60614",330000.0,2.0,2.0,1200.0
+585,"1822 W Thomas St # 2 Chicago, IL 60622",395000.0,2.0,2.0,1200.0
+586,"2015 W Birchwood Ave # 3 Chicago, IL 60645",182000.0,2.0,2.0,1200.0
+587,"600 N Kingsbury St Apt 1510 Chicago, IL 60654",437500.0,2.0,2.0,1200.0
+588,"4536 N Sheridan Rd Apt 303 Chicago, IL 60640",299000.0,2.0,2.0,1200.0
+589,"4203 Quinlan Rd Apt 202B Glenview, IL 60025",183500.0,2.0,2.0,1200.0
+590,"1302 W Fillmore St Apt 3 Chicago, IL 60607",315000.0,2.0,2.0,1200.0
+591,"9428 S 77th Ct Apt 1B Hickory Hills, IL 60457",159000.0,2.0,2.0,1200.0
+592,"333 W Hubbard St Apt 3K Chicago, IL 60654",464000.0,2.0,2.0,1200.0
+593,"8425 W 95th St Apt 27 Hickory Hills, IL 60457",130000.0,2.0,2.0,1200.0
+594,"1239 N Maplewood Ave # 2 Chicago, IL 60622",353000.0,2.0,2.0,1200.0
+595,"6065 N Ridge Ave Unit 3 Chicago, IL 60660",298000.0,2.0,2.0,1200.0
+596,"334 Clearwater Ln Schaumburg, IL 60194",189000.0,2.0,2.0,1200.0
+597,"930 Ontario St Oak Park, IL 60302",208000.0,2.0,2.0,1200.0
+598,"4446 N Campbell Ave Apt Gn Chicago, IL 60625",210500.0,2.0,2.0,1200.0
+599,"1515 S Prairie Ave Unit 1216 Chicago, IL 60605",400000.0,2.0,2.0,1200.0
+600,"405 N Wabash Ave Unit 4509 Chicago, IL 60611",495000.0,2.0,2.0,1200.0
+601,"1400 N State Pkwy Apt 18A Chicago, IL 60610",240000.0,2.0,2.0,1200.0
+602,"4616 Kings Walk Dr Apt 2C Rolling Meadows, IL 60008",140500.0,2.0,2.0,1200.0
+603,"1462 W Bryn Mawr Ave # G Chicago, IL 60660",227500.0,2.0,2.0,1200.0
+604,"6301 N Richmond St Apt 1 Chicago, IL 60659",140000.0,2.0,2.0,1200.0
+605,"1409 W Cuyler Ave Apt 2W Chicago, IL 60613",426000.0,2.0,2.0,1200.0
+606,"380 Heather Ct Apt B1 Schaumburg, IL 60193",165000.0,2.0,2.0,1200.0
+607,"2416 W Cortez St # 2 Chicago, IL 60622",345000.0,2.0,2.0,1200.0
+608,"8700 W Evelyn Ln Apt 306 Chicago, IL 60656",152000.0,2.0,2.0,1200.0
+609,"495 E Fawn Ln Unit C Palatine, IL 60074",173000.0,2.0,2.0,1200.0
+610,"4601 N Monticello Ave Apt 1 Chicago, IL 60625",198000.0,2.0,2.0,1200.0
+611,"1344 W George St Apt T Chicago, IL 60657",350000.0,2.0,2.0,1200.0
+612,"1255 N Sandburg Ter Unit 302 Chicago, IL 60610",370000.0,2.0,2.0,1200.0
+613,"910 N Washtenaw Ave # 3 Chicago, IL 60622",315000.0,2.0,2.0,1200.0
+614,"211 E Ohio St Apt 511 Chicago, IL 60611",430000.0,2.0,2.0,1200.0
+615,"1900 Wilmette Ave Unit 3C Wilmette, IL 60091",160000.0,2.0,2.0,1200.0
+616,"18740 Hamlin Ave Flossmoor, IL 60422",150000.0,3.0,1.5,1200.0
+617,"2459 W Eastwood Ave Apt 3 Chicago, IL 60625",312500.0,2.0,1.5,1200.0
+618,"534 Westchester Rd Schaumburg, IL 60193",196500.0,2.0,1.5,1200.0
+619,"4446 N Wolcott Ave Apt 2A Chicago, IL 60640",320000.0,2.0,1.0,1200.0
+620,"5155 Madison St Unit 208 Skokie, IL 60077",212500.0,2.0,1.0,1198.0
+621,"2700 W Belmont Ave Unit 408 Chicago, IL 60618",316500.0,2.0,2.0,1195.0
+622,"9355 Irving Park Rd Apt 218 Schiller Park, IL 60176",159000.0,2.0,2.0,1193.0
+623,"873 N Larrabee St Apt 508 Chicago, IL 60610",385000.0,2.0,2.0,1190.0
+624,"125 E 13th St Unit 1412 Chicago, IL 60605",540000.0,2.0,2.0,1185.0
+625,"2045 N Kedzie Ave Apt C3 Chicago, IL 60647",397000.0,2.0,2.0,1180.0
+626,"2472 W Foster Ave Apt 407 Chicago, IL 60625",290000.0,2.0,2.0,1179.0
+627,"1111 S Wabash Ave Apt 808 Chicago, IL 60605",316000.0,1.0,1.5,1177.0
+628,"743 E Higgins Rd Elk Grove Village, IL 60007",2252500.0,3.0,1.0,1176.0
+629,"1301 W Madison St Apt 407 Chicago, IL 60607",393500.0,2.0,1.0,1168.0
+630,"1018 Main St Apt 2 Evanston, IL 60202",246000.0,2.0,2.0,1161.0
+631,"680 N Green St Apt 610 Chicago, IL 60642",343000.0,2.0,2.0,1160.0
+632,"1796 Bristol Walk Hoffman Estates, IL 60169",121000.0,2.0,1.5,1158.0
+633,"811 W 15th Pl Unit 403 Chicago, IL 60608",295000.0,2.0,2.0,1151.0
+634,"1735 W Diversey Pkwy Apt 316 Chicago, IL 60614",350000.0,2.0,2.0,1150.0
+635,"195 N Harbor Dr Apt 1809 Chicago, IL 60601",533000.0,2.0,2.0,1150.0
+636,"655 W Irving Park Rd Apt 1901 Chicago, IL 60613",340000.0,2.0,2.0,1150.0
+637,"1540 N State Pkwy Apt 14A Chicago, IL 60610",261000.0,2.0,2.0,1150.0
+638,"1500 W Monroe St Unit 505 Chicago, IL 60607",342000.0,2.0,1.5,1150.0
+639,"3875 Shoal Dr Hanover Park, IL 60133",220000.0,3.0,2.0,1144.0
+640,"2105 E 67th St Apt G8 Chicago, IL 60649",40000.0,2.0,2.0,1144.0
+641,"333 N Canal St Apt 2905 Chicago, IL 60606",500000.0,1.0,1.5,1142.0
+642,"1904 W Dickens Ave # 1 Chicago, IL 60614",435000.0,3.0,2.5,1140.0
+643,"345 N La Salle Dr Apt 4204 Chicago, IL 60654",485000.0,2.0,2.0,1140.0
+644,"4832 S Loomis Blvd Chicago, IL 60609",197000.0,3.0,1.0,1140.0
+645,"57 E Delaware Pl Apt 1701 Chicago, IL 60611",419000.0,1.0,1.5,1135.0
+646,"7410 W North Ave Apt 304 Elmwood Park, IL 60707",139000.0,2.0,1.5,1134.0
+647,"2020 N Lincoln Park W Apt 18A Chicago, IL 60614",400000.0,2.0,2.0,1126.0
+648,"5823 N Ravenswood Ave # P9 Chicago, IL 60660",310000.0,2.0,1.0,1125.0
+649,"106 S Ridgeland Ave Apt 210 Oak Park, IL 60302",196000.0,2.0,1.0,1125.0
+650,"6033 N Sheridan Rd Apt 15L Chicago, IL 60660",207000.0,1.0,1.0,1117.0
+651,"1830 W Surrey Park Ln Unit 2A Arlington Heights, IL 60005",142500.0,2.0,2.0,1107.0
+652,"1227 S Old Wilke Rd Apt 409 Arlington Heights, IL 60005",137500.0,2.0,2.0,1100.0
+653,"758 N Larrabee St Apt 510 Chicago, IL 60654",485000.0,2.0,2.0,1100.0
+654,"912 Ridge Sq Apt 120 Elk Grove Village, IL 60007",125000.0,2.0,2.0,1100.0
+655,"2222 W Diversey Ave Apt 314 Chicago, IL 60647",304000.0,2.0,2.0,1100.0
+656,"1516 S Wabash Ave Apt 1107 Chicago, IL 60605",353000.0,2.0,2.0,1100.0
+657,"18400 Cherry Creek Dr Apt 407 Homewood, IL 60430",88500.0,2.0,2.0,1100.0
+658,"1700 E 56th St Apt 1608 Chicago, IL 60637",199000.0,2.0,2.0,1100.0
+659,"4837 N Central Ave Apt 204 Chicago, IL 60630",220000.0,2.0,2.0,1100.0
+660,"643 W Belmont Ave Apt 1 Chicago, IL 60657",351000.0,2.0,2.0,1100.0
+661,"5611 N Winthrop Ave # 13B Chicago, IL 60660",270000.0,2.0,2.0,1100.0
+662,"1207 S Old Wilke Rd Apt 401 Arlington Heights, IL 60005",146500.0,2.0,2.0,1100.0
+663,"4825 N Fairfield Ave Apt 2 Chicago, IL 60625",268500.0,2.0,2.0,1100.0
+664,"3241 184th St Apt 1A Homewood, IL 60430",40500.0,2.0,2.0,1100.0
+665,"1530 S State St # 209 Chicago, IL 60605",340000.0,2.0,2.0,1100.0
+666,"14601 Keystone Ave Apt C3 Midlothian, IL 60445",44000.0,3.0,1.5,1100.0
+667,"8940 David Pl Apt 2A Des Plaines, IL 60016",119000.0,3.0,1.5,1100.0
+668,"1481 N Larrabee St # B Chicago, IL 60610",315000.0,2.0,1.5,1100.0
+669,"1525 S Sangamon St Unit 404P Chicago, IL 60608",290000.0,2.0,1.5,1100.0
+670,"300 S Roselle Rd Apt 108 Schaumburg, IL 60193",104000.0,2.0,1.5,1100.0
+671,"6650 W 64th Pl # 2W2A Chicago, IL 60638",102000.0,2.0,1.5,1100.0
+672,"1539 N Leavitt St Chicago, IL 60622",385000.0,2.0,1.5,1100.0
+673,"2614 N Clybourn Ave Apt 203 Chicago, IL 60614",295000.0,1.0,1.5,1100.0
+674,"518 W Armitage Ave Apt 1 Chicago, IL 60614",370000.0,2.0,1.0,1100.0
+675,"2501 W Touhy Ave Apt 102 Chicago, IL 60645",127000.0,2.0,1.0,1100.0
+676,"3801 W Cullom Ave # 1 Chicago, IL 60618",105000.0,2.0,1.0,1100.0
+677,"1730 W Foster Ave Apt G Chicago, IL 60640",215000.0,2.0,1.0,1100.0
+678,"3351 N Clifton Ave Apt 1E Chicago, IL 60657",300000.0,2.0,1.0,1100.0
+679,"515 N Noble St Apt 415 Chicago, IL 60642",341000.0,1.0,1.0,1100.0
+680,"124 W Polk St Apt 101 Chicago, IL 60605",270000.0,1.0,1.0,1100.0
+681,"680 N Lake Shore Dr Apt 813 Chicago, IL 60611",265000.0,1.0,1.0,1100.0
+682,"954 W Grace St Apt J102 Chicago, IL 60613",229500.0,1.0,1.0,1100.0
+683,"9670 Franklin Ave Unit 207 Franklin Park, IL 60131",155000.0,2.0,2.0,1080.0
+684,"528 N Elizabeth St Apt 2N Chicago, IL 60642",360000.0,2.0,1.5,1080.0
+685,"4201 S Michigan Ave Apt 3N Chicago, IL 60653",130000.0,2.0,2.0,1072.0
+686,"1350 Laguna Ct Unit D Hanover Park, IL 60133",140000.0,3.0,2.0,1062.0
+687,"5755 Bavarian Ct Unit D Hanover Park, IL 60133",140000.0,3.0,2.0,1062.0
+688,"833 W 15th Pl Unit 515 Chicago, IL 60608",280000.0,2.0,1.5,1062.0
+689,"5559 Delmonte Dr Hanover Park, IL 60133",135000.0,3.0,1.0,1062.0
+690,"200 Deborah Ln Apt 10B Wheeling, IL 60090",96000.0,2.0,1.0,1056.0
+691,"1250 W Van Buren St Apt 615 Chicago, IL 60607",314500.0,2.0,2.0,1050.0
+692,"1515 N Wells St Apt 8C Chicago, IL 60610",462500.0,1.0,1.5,1050.0
+693,"201 E Chestnut St Apt 21F Chicago, IL 60611",278500.0,1.0,1.0,1050.0
+694,"523 S Plymouth Ct # P6 Chicago, IL 60605",282000.0,1.0,1.0,1050.0
+695,"345 N Canal St Apt 607 Chicago, IL 60606",255000.0,1.0,1.0,1050.0
+696,"1375 Spinnaker Ln Hanover Park, IL 60133",218000.0,3.0,1.5,1048.0
+697,"13751 Lamon Ave Apt 107 Crestwood, IL 60445",93000.0,2.0,2.0,1047.0
+698,"530 N Lake Shore Dr Apt 1106 Chicago, IL 60611",450000.0,1.0,1.5,1047.0
+699,"1212 N Wells St Apt 1203 Chicago, IL 60610",360000.0,1.0,1.5,1041.0
+700,"5715 129th St Apt 3A Crestwood, IL 60445",98500.0,2.0,2.0,1040.0
+701,"4700 N Western Ave Apt 3G Chicago, IL 60625",297000.0,1.0,1.5,1040.0
+702,"155 N Harbor Dr Apt 1004 Chicago, IL 60601",400000.0,1.0,1.5,1040.0
+703,"1635 W Belmont Ave Apt 419 Chicago, IL 60657",310000.0,1.0,1.0,1039.0
+704,"6246 Nugget Cir Hanover Park, IL 60133",151000.0,2.0,1.5,1032.0
+705,"2142 W Rosemont Ave Apt 3D Chicago, IL 60659",124000.0,2.0,1.0,1032.0
+706,"40 E 9th St Apt 502 Chicago, IL 60605",255000.0,1.0,1.0,1028.0
+707,"333 W Hubbard St Apt 401 Chicago, IL 60654",395000.0,1.0,1.0,1027.0
+708,"5525 Cromwell Ln Apt G1 Oak Forest, IL 60452",102000.0,2.0,2.0,1025.0
+709,"202 N Kenilworth Ave Bsmt B Oak Park, IL 60302",117500.0,1.0,1.0,1015.0
+710,"5807 W 16th St Cicero, IL 60804",98000.0,3.0,1.0,1012.0
+711,"6238 Nugget Cir Hanover Park, IL 60133",155000.0,2.0,1.5,1008.0
+712,"1713 N Chicago Ave Arlington Heights, IL 60004",290000.0,5.0,1.0,1008.0
+713,"909 W Washington Blvd Apt 705 Chicago, IL 60607",430000.0,1.0,1.5,1005.0
+714,"21 E Huron St Apt 3301 Chicago, IL 60611",515000.0,1.0,1.5,1004.0
+715,"7509 175th St Apt 223 Tinley Park, IL 60477",110000.0,2.0,2.0,1000.0
+716,"714 E Algonquin Rd Unit 203 Arlington Heights, IL 60005",222000.0,2.0,2.0,1000.0
+717,"9817 S Keeler Ave Apt D Oak Lawn, IL 60453",125500.0,2.0,2.0,1000.0
+718,"7505 Tiffany Dr Apt 3D Orland Park, IL 60462",100000.0,2.0,2.0,1000.0
+719,"931 W Arquilla Dr Apt 124 Glenwood, IL 60425",26500.0,2.0,2.0,1000.0
+720,"5510 Lincoln Ave Unit 401 Morton Grove, IL 60053",135000.0,2.0,2.0,1000.0
+721,"3522 N Wilton Ave # 2 Chicago, IL 60657",349000.0,2.0,2.0,1000.0
+722,"5351 N East River Rd Apt 201 Chicago, IL 60656",130000.0,2.0,2.0,1000.0
+723,"18205 Hart Dr Apt 3A Homewood, IL 60430",43100.0,2.0,2.0,1000.0
+724,"5646 158th St Apt 406 Oak Forest, IL 60452",130000.0,2.0,2.0,1000.0
+725,"13620 Lamon Ave Apt 415 Crestwood, IL 60445",99000.0,2.0,2.0,1000.0
+726,"3303 Grove Ave Unit 405 Berwyn, IL 60402",135000.0,2.0,2.0,1000.0
+727,"2165 N Heather Ln # 38C Palatine, IL 60074",160000.0,3.0,1.5,1000.0
+728,"247 N Smith St Unit 3E Palatine, IL 60067",125000.0,2.0,1.5,1000.0
+729,"5424 Mayflower Ct # 2504 Rolling Meadows, IL 60008",235000.0,2.0,1.5,1000.0
+730,"155 N Harbor Dr Apt 504 Chicago, IL 60601",375000.0,1.0,1.5,1000.0
+731,"2222 W Diversey Ave Apt 409 Chicago, IL 60647",255000.0,1.0,1.5,1000.0
+732,"1230 N State Pkwy Apt 26D Chicago, IL 60610",357000.0,1.0,1.5,1000.0
+733,"1122 N Dearborn St Apt 6E Chicago, IL 60610",493500.0,1.0,1.5,1000.0
+734,"1046 W Catalpa Ave Apt 2W Chicago, IL 60640",170000.0,2.0,1.0,1000.0
+735,"2956 N Halsted St Apt 2 Chicago, IL 60657",340500.0,2.0,1.0,1000.0
+736,"2540 N Sacramento Ave Apt 1 Chicago, IL 60647",278000.0,2.0,1.0,1000.0
+737,"4021 N Clarendon Ave Apt 3W Chicago, IL 60613",265200.0,2.0,1.0,1000.0
+738,"1046 W Catalpa Ave Apt 2W Chicago, IL 60640",192000.0,2.0,1.0,1000.0
+739,"636 W Waveland Ave Apt 2A Chicago, IL 60613",270000.0,2.0,1.0,1000.0
+740,"2642 N Washtenaw Ave Apt 2 Chicago, IL 60647",285000.0,2.0,1.0,1000.0
+741,"5313 N Delphia Ave Apt 314 Chicago, IL 60656",118000.0,2.0,1.0,1000.0
+742,"2621 N California Ave # 1 Chicago, IL 60647",260000.0,2.0,1.0,1000.0
+743,"8876 Golf Rd # 202B Des Plaines, IL 60016",106500.0,2.0,1.0,1000.0
+744,"6007 N Sheridan Rd Apt 32H Chicago, IL 60660",180000.0,1.0,1.0,1000.0
+745,"2801 N Oakley Ave Apt 203 Chicago, IL 60618",285000.0,1.0,1.0,1000.0
+746,"1 E Schiller St Apt 6C Chicago, IL 60610",317500.0,1.0,1.0,1000.0
+747,"801 S Plymouth Ct Apt 907 Chicago, IL 60605",246000.0,1.0,1.0,1000.0
+748,"323 W Belden Ave Apt 2 Chicago, IL 60614",283000.0,1.0,1.0,1000.0
+749,"431 S Dearborn St Apt 602 Chicago, IL 60605",205000.0,1.0,1.0,1000.0
+750,"1000 W Washington Blvd Unit 432 Chicago, IL 60607",307000.0,1.0,1.0,1000.0
+751,"5 W Central Rd Apt 212 Mt Prospect, IL 60056",172500.0,1.0,1.0,1000.0
+752,"1307 S Wabash Ave Apt 608 Chicago, IL 60605",230000.0,1.0,1.0,1000.0
+753,"3704 Monitor Dr Hanover Park, IL 60133",182000.0,3.0,2.0,993.0
+754,"314 Silverwood Ct Apt B1 Schaumburg, IL 60193",156000.0,2.0,2.0,980.0
+755,"1000 W 15th St Unit 235 Chicago, IL 60608",287000.0,2.0,2.0,980.0
+756,"1335 N Greenview Ave Apt 2R Chicago, IL 60642",365000.0,2.0,2.0,978.0
+757,"3727 N Wolcott Ave Unit 6 Chicago, IL 60613",258000.0,1.0,1.5,975.0
+758,"2201 W Wabansia Ave Apt 16 Chicago, IL 60647",525000.0,1.0,1.0,975.0
+759,"1250 S Indiana Ave Apt 211 Chicago, IL 60605",306000.0,2.0,1.5,968.0
+760,"221 E Cullerton St Apt 610 Chicago, IL 60616",263000.0,1.0,1.0,968.0
+761,"645 N Kingsbury St Apt 1704 Chicago, IL 60654",365000.0,2.0,1.5,966.0
+762,"4057 W Belle Plaine Ave # G Chicago, IL 60641",130000.0,1.0,1.5,966.0
+763,"512 N McClurg Ct Apt 3606 Chicago, IL 60611",345000.0,1.0,1.0,965.0
+764,"6131 Kit Carson Dr Hanover Park, IL 60133",130000.0,2.0,1.0,956.0
+765,"1453 Bear Flag Dr Hanover Park, IL 60133",119000.0,2.0,1.0,956.0
+766,"1625 Garland Ln Hanover Park, IL 60133",165000.0,3.0,1.0,954.0
+767,"4241 N Kimball Ave Apt 3 Chicago, IL 60618",182500.0,2.0,2.0,950.0
+768,"3110 N Greenview Ave Apt 4W Chicago, IL 60657",375500.0,2.0,2.0,950.0
+769,"1314 Main St Apt 2B Evanston, IL 60202",247500.0,2.0,2.0,950.0
+770,"6265 Kit Carson Dr Hanover Park, IL 60133",135000.0,2.0,1.5,950.0
+771,"6274 Kit Carson Dr Hanover Park, IL 60133",133000.0,2.0,1.5,950.0
+772,"6277 Gold Cir Hanover Park, IL 60133",140000.0,2.0,1.5,950.0
+773,"5701 N Sheridan Rd Apt 8B Chicago, IL 60660",135000.0,2.0,1.0,950.0
+774,"1505 E Central Rd Unit 404A Arlington Heights, IL 60005",124500.0,1.0,1.0,950.0
+775,"405 N Wabash Ave Unit 1402 Chicago, IL 60611",290000.0,1.0,1.0,950.0
+776,"1151 W Washington Blvd Unit 122 Chicago, IL 60607",350000.0,1.0,1.0,950.0
+777,"70 W Huron St Apt 1809 Chicago, IL 60654",315000.0,1.0,1.0,950.0
+778,"512 N McClurg Ct Apt 3211 Chicago, IL 60611",300000.0,1.0,1.0,950.0
+779,"899 S Plymouth Ct Apt 2508 Chicago, IL 60605",230000.0,1.0,1.0,950.0
+780,"6037 Kit Carson Dr Hanover Park, IL 60133",139000.0,2.0,1.5,944.0
+781,"6147 Kit Carson Dr Hanover Park, IL 60133",129000.0,2.0,1.5,944.0
+782,"6028 Kit Carson Dr Hanover Park, IL 60133",127000.0,2.0,1.5,944.0
+783,"1421 Fremont Dr Hanover Park, IL 60133",127500.0,2.0,1.5,944.0
+784,"1305 Bamburg Ct Unit B Hanover Park, IL 60133",110000.0,2.0,1.0,943.0
+785,"1295 Bamburg Ct Unit B Hanover Park, IL 60133",124000.0,2.0,1.0,943.0
+786,"1400 Alpine Ct Unit B Hanover Park, IL 60133",109000.0,2.0,1.0,943.0
+787,"1370 Alpine Ct Unit B Hanover Park, IL 60133",114500.0,2.0,1.0,943.0
+788,"1355 Laguna Ct Unit B Hanover Park, IL 60133",101000.0,2.0,1.0,943.0
+789,"1849 W Lunt Ave Apt 1A Chicago, IL 60626",170000.0,2.0,1.0,940.0
+790,"535 N Michigan Ave Apt 2201 Chicago, IL 60611",240000.0,1.0,1.0,940.0
+791,"15272 State St South Holland, IL 60473",39500.0,2.0,1.0,936.0
+792,"5638 Pebblebeach Dr Hanover Park, IL 60133",110500.0,2.0,1.0,936.0
+793,"1635 W Belmont Ave Apt 517 Chicago, IL 60657",300000.0,1.0,1.0,933.0
+794,"2500 N Lakeview Ave Apt 1103 Chicago, IL 60614",280000.0,1.0,1.5,930.0
+795,"1301 W Touhy Ave Apt 312 Park Ridge, IL 60068",153000.0,2.0,1.5,925.0
+796,"6171 N Sheridan Rd Apt 2306 Chicago, IL 60660",127500.0,1.0,1.0,920.0
+797,"2620 N Spaulding Ave Apt 1S Chicago, IL 60647",265000.0,2.0,1.0,918.0
+798,"405 N Wabash Ave Unit 811 Chicago, IL 60611",372500.0,1.0,1.0,915.0
+799,"210 S Desplaines St Apt 209 Chicago, IL 60661",319500.0,2.0,1.0,910.0
+800,"70 W Huron St Apt 509 Chicago, IL 60654",275000.0,1.0,1.0,910.0
+801,"7061 N Kedzie Ave Ste 905 Chicago, IL 60645",90000.0,1.0,1.0,905.0
+802,"2800 N Greenview Ave Apt 3S Chicago, IL 60657",636000.0,3.0,2.0,900.0
+803,"20 E Goethe St Apt 106 Chicago, IL 60610",210000.0,1.0,2.0,900.0
+804,"3207 W Argyle St Apt 1W Chicago, IL 60625",168000.0,2.0,1.5,900.0
+805,"1304 W Cornelia Ave # 2 Chicago, IL 60657",393000.0,2.0,1.5,900.0
+806,"6301 N Sheridan Rd Apt 18V Chicago, IL 60660",142000.0,1.0,1.5,900.0
+807,"700 W Van Buren St Apt 1305 Chicago, IL 60607",350000.0,1.0,1.5,900.0
+808,"6253 N Greenview Ave Chicago, IL 60660",202500.0,2.0,1.0,900.0
+809,"1743 N Cleveland Ave Apt 2R Chicago, IL 60614",1250000.0,2.0,1.0,900.0
+810,"4655 N Spaulding Ave Apt 1 Chicago, IL 60625",175000.0,2.0,1.0,900.0
+811,"1255 S State St Unit 1901 Chicago, IL 60605",320000.0,2.0,1.0,900.0
+812,"221 E Cullerton St Apt 614 Chicago, IL 60616",263000.0,1.0,1.0,900.0
+813,"2800 N Lake Shore Dr Apt 807 Chicago, IL 60657",210000.0,1.0,1.0,900.0
+814,"1440 N Lake Shore Dr Apt 28G Chicago, IL 60610",300000.0,1.0,1.0,900.0
+815,"220 S Oak Park Ave Apt 1 Oak Park, IL 60302",95000.0,1.0,1.0,900.0
+816,"5916 N Paulina St Apt 2E Chicago, IL 60660",175000.0,1.0,1.0,900.0
+817,"1528 S Wabash Ave # P-01 Chicago, IL 60605",244000.0,1.0,1.0,900.0
+818,"4250 N Marine Dr Apt 526 Chicago, IL 60613",165000.0,1.0,1.0,900.0
+819,"547 S Clark St Apt 404 Chicago, IL 60605",264000.0,1.0,1.0,900.0
+820,"6274 Gold Cir Hanover Park, IL 60133",146000.0,2.0,2.0,898.0
+821,"125 N Euclid Ave Apt 308 Oak Park, IL 60301",168500.0,1.0,1.0,895.0
+822,"6940 W 65th St Apt 2A Chicago, IL 60638",89000.0,2.0,1.0,890.0
+823,"1431 Bear Flag Dr # 1 Hanover Park, IL 60133",125000.0,2.0,1.0,889.0
+824,"6026 Kit Carson Dr Hanover Park, IL 60133",125000.0,2.0,1.0,889.0
+825,"3300 W Irving Park Rd Unit B2 Chicago, IL 60618",202000.0,1.0,1.0,887.0
+826,"111 S Morgan St Apt 421 Chicago, IL 60607",365000.0,1.0,1.0,885.0
+827,"9355 Irving Park Rd Apt 211 Schiller Park, IL 60176",90000.0,1.0,1.0,885.0
+828,"182 W Lake St Apt 603 Chicago, IL 60601",289500.0,2.0,1.0,879.0
+829,"6301 N Sheridan Rd Apt 23K Chicago, IL 60660",140000.0,1.0,1.5,875.0
+830,"21 E Chestnut St Apt 19H Chicago, IL 60611",197000.0,1.0,1.0,875.0
+831,"375 W Erie St Apt 323 Chicago, IL 60654",321000.0,1.0,1.0,875.0
+832,"1253 W 109th St Chicago, IL 60643",30000.0,3.0,1.5,874.0
+833,"2251 W Saint Paul Ave Apt 2AA Chicago, IL 60647",295000.0,1.0,1.0,867.0
+834,"6135 N Broadway St Apt 200 Chicago, IL 60660",217000.0,1.0,1.5,865.0
+835,"330 N Jefferson St Apt 1306 Chicago, IL 60661",323500.0,1.0,1.0,865.0
+836,"510 W Erie St Apt 1108 Chicago, IL 60654",337500.0,1.0,1.5,860.0
+837,"10510 Parkside Ave Apt 12 Chicago Ridge, IL 60415",60000.0,2.0,1.0,850.0
+838,"1954 W Patterson Ave # 2 Chicago, IL 60613",195000.0,1.0,1.0,850.0
+839,"5701 N Sheridan Rd Apt 7Q Chicago, IL 60660",180000.0,1.0,1.0,850.0
+840,"1760 W Wrightwood Ave Apt 205 Chicago, IL 60614",290000.0,1.0,1.0,850.0
+841,"1450 N Dearborn St Apt 3B Chicago, IL 60610",430000.0,1.0,1.0,850.0
+842,"17004 Novak Dr Apt 203 Hazel Crest, IL 60429",27000.0,1.0,1.0,850.0
+843,"33 W Delaware Pl Apt 19J Chicago, IL 60610",282500.0,1.0,1.0,850.0
+844,"4832 N Talman Ave # 2D Chicago, IL 60625",190000.0,1.0,1.0,850.0
+845,"10 E Ontario St Apt 4505 Chicago, IL 60611",325000.0,1.0,1.0,845.0
+846,"520 W Huron St # PU-7 Chicago, IL 60654",288000.0,1.0,1.0,845.0
+847,"910 N Lake Shore Dr Apt 1415 Chicago, IL 60611",272000.0,1.0,1.0,841.0
+848,"655 W Irving Park Rd Apt 4512 Chicago, IL 60613",210000.0,2.0,1.0,840.0
+849,"405 N Wabash Ave Unit 3508 Chicago, IL 60611",325000.0,1.0,1.0,840.0
+850,"6171 N Sheridan Rd Apt 302 Chicago, IL 60660",111000.0,1.0,1.0,837.0
+851,"1201 Court C Hanover Park, IL 60133",115000.0,2.0,1.0,833.0
+852,"940 Holbrook Rd Apt 16B Homewood, IL 60430",21000.0,2.0,1.0,830.0
+853,"5455 N Sheridan Rd Apt 3208 Chicago, IL 60640",175000.0,1.0,1.0,830.0
+854,"500 S Clinton St # G009 Chicago, IL 60607",153000.0,1.0,1.0,828.0
+855,"1872 N Clybourn Ave Apt 208 Chicago, IL 60614",250000.0,1.0,1.0,827.0
+856,"8650 W Berwyn Ave Unit 2N Chicago, IL 60656",118000.0,2.0,1.0,825.0
+857,"1854 N Lincoln Ave # G Chicago, IL 60614",225000.0,1.0,1.0,825.0
+858,"400 E Randolph St Apt 1205 Chicago, IL 60601",352000.0,1.0,1.0,825.0
+859,"850 N Dewitt Pl Apt 12D Chicago, IL 60611",223500.0,1.0,1.0,825.0
+860,"2 E Erie St Apt 3707 Chicago, IL 60611",375000.0,1.0,1.0,824.0
+861,"1749 N Wells St Apt 1411 Chicago, IL 60614",314500.0,1.0,1.0,823.0
+862,"1749 N Wells St Apt 1603 Chicago, IL 60614",287000.0,1.0,1.0,823.0
+863,"545 N Dearborn St # W2608 Chicago, IL 60654",317500.0,1.0,1.0,818.0
+864,"655 W Irving Park Rd Apt 5506 Chicago, IL 60613",213500.0,1.0,1.0,816.0
+865,"1918 S Michigan Ave Apt 204 Chicago, IL 60616",240000.0,1.0,1.0,815.0
+866,"7146 S University Ave Chicago, IL 60619",5000.0,3.0,1.0,810.0
+867,"5445 N Sheridan Rd Apt 3106 Chicago, IL 60640",185000.0,1.0,1.0,810.0
+868,"182 W Lake St Apt 2502 Chicago, IL 60601",276500.0,1.0,1.0,810.0
+869,"2041 W Potomac Ave # 2 Chicago, IL 60622",430000.0,2.0,2.0,800.0
+870,"505 S Campbell Ave Apt 1 Chicago, IL 60612",117500.0,2.0,2.0,800.0
+871,"2167 N Dogwood Ln Palatine, IL 60074",190000.0,2.0,1.5,800.0
+872,"15718 Peggy Ln Apt 5 Oak Forest, IL 60452",60000.0,2.0,1.5,800.0
+873,"4649 W 95th St # B Oak Lawn, IL 60453",81000.0,3.0,1.0,800.0
+874,"2139 N Harlem Ave Rear 121 Chicago, IL 60707",159000.0,2.0,1.0,800.0
+875,"1101 Harlem Ave Apt 202 Forest Park, IL 60130",100000.0,2.0,1.0,800.0
+876,"1205 N Sterling Ave Apt 207 Palatine, IL 60067",71500.0,2.0,1.0,800.0
+877,"4454 W Gunnison St # 2C Chicago, IL 60630",120000.0,2.0,1.0,800.0
+878,"127 N Wolf Rd Apt 38A Wheeling, IL 60090",109000.0,2.0,1.0,800.0
+879,"9561 Dee Rd # 109I Des Plaines, IL 60016",110000.0,2.0,1.0,800.0
+880,"2735 W Armitage Ave Apt 105 Chicago, IL 60647",256000.0,1.0,1.0,800.0
+881,"2400 Windsor Mall Apt 1D Park Ridge, IL 60068",115000.0,1.0,1.0,800.0
+882,"1010 N Lake Shore Dr Chicago, IL 60611",225000.0,1.0,1.0,800.0
+883,"700 W Van Buren St Apt 1108 Chicago, IL 60607",275000.0,1.0,1.0,800.0
+884,"3900 N Lake Shore Dr Apt 20H Chicago, IL 60613",118500.0,1.0,1.0,800.0
+885,"1431 W Leland Ave # G Chicago, IL 60640",115000.0,1.0,1.0,800.0
+886,"515 W Wrightwood Ave Apt 302 Chicago, IL 60614",235000.0,1.0,1.0,800.0
+887,"520 W Huron St Apt 302 Chicago, IL 60654",305000.0,1.0,1.0,800.0
+888,"497 Sheridan Rd Evanston, IL 60202",142000.0,1.0,1.0,800.0
+889,"6036 N Kenmore Ave # 2 Chicago, IL 60660",185000.0,1.0,1.0,800.0
+890,"1629 W Lawrence Ave # 2 Chicago, IL 60640",187000.0,1.0,1.0,800.0
+891,"3550 N Lake Shore Dr Apt 824 Chicago, IL 60657",182500.0,1.0,1.5,796.0
+892,"5469 S Ingleside Ave Apt 3S Chicago, IL 60615",170000.0,2.0,1.0,790.0
+893,"30 E Huron St Apt 1110 Chicago, IL 60611",315000.0,1.0,1.0,782.0
+894,"6030 N Sheridan Rd Apt 311 Chicago, IL 60660",10000.0,1.0,1.0,780.0
+895,"630 W Waveland Ave Apt 4B Chicago, IL 60613",220000.0,1.0,1.0,780.0
+896,"9418 Kelvin Ln Apt 3273 Schiller Park, IL 60176",133000.0,2.0,1.0,770.0
+897,"645 N Kingsbury St Apt 2303 Chicago, IL 60654",300000.0,1.0,1.5,750.0
+898,"30 E Elm St Apt 8E Chicago, IL 60611",210000.0,1.0,1.0,750.0
+899,"1545 W Chase Ave # 2A Chicago, IL 60626",104000.0,1.0,1.0,750.0
+900,"1212 N La Salle Dr Apt 609 Chicago, IL 60610",239000.0,1.0,1.0,750.0
+901,"3930 N Pine Grove Ave Apt 1205 Chicago, IL 60613",155000.0,1.0,1.0,750.0
+902,"474 N Lake Shore Dr Apt 3010 Chicago, IL 60611",271500.0,1.0,1.0,741.0
+903,"445 W Wellington Ave Apt 3B Chicago, IL 60657",263000.0,1.0,1.0,735.0
+904,"445 W Wellington Ave Apt 4A Chicago, IL 60657",248500.0,1.0,1.0,725.0
+905,"30 E Huron St Apt 3106 Chicago, IL 60611",305000.0,1.0,1.0,717.0
+906,"182 W Lake St Apt 313 Chicago, IL 60601",211500.0,2.0,1.0,715.0
+907,"6700 S South Shore Dr Apt 16E Chicago, IL 60649",52000.0,1.0,1.0,712.0
+908,"40 E Delaware Pl Apt 1604 Chicago, IL 60611",225000.0,1.0,1.0,705.0
+909,"1101 Harlem Ave Apt 304 Forest Park, IL 60130",115000.0,2.0,1.0,700.0
+910,"3037 W Montrose Ave Apt 2D Chicago, IL 60618",152000.0,2.0,1.0,700.0
+911,"3037 W Montrose Ave Apt 2A Chicago, IL 60618",148000.0,2.0,1.0,700.0
+912,"18361 Glen Oak Ave Apt 2B Lansing, IL 60438",35000.0,2.0,1.0,700.0
+913,"653 Chappel Ave # 1B Calumet City, IL 60409",50000.0,2.0,1.0,700.0
+914,"7337 S South Shore Dr Apt 1030 Chicago, IL 60649",38000.0,2.0,1.0,700.0
+915,"701 S Wells St Apt 1707 Chicago, IL 60607",229000.0,1.0,1.0,700.0
+916,"758 N Larrabee St Apt 632 Chicago, IL 60654",259000.0,1.0,1.0,700.0
+917,"14740 Kilpatrick Ave Apt 5W Midlothian, IL 60445",61500.0,1.0,1.0,700.0
+918,"2020 N Lincoln Park W Apt 24C Chicago, IL 60614",270000.0,1.0,1.0,700.0
+919,"4063 N Sheridan Rd # 1G Chicago, IL 60613",113000.0,1.0,1.0,700.0
+920,"655 W Irving Park Rd Apt 3107 Chicago, IL 60613",169500.0,1.0,1.0,700.0
+921,"8845 Lamon Ave Apt 3N Skokie, IL 60077",101000.0,1.0,1.0,700.0
+922,"7061 N Kedzie Ave Ste 1109 Chicago, IL 60645",85000.0,1.0,1.0,692.0
+923,"586 Fairway View Dr Apt 3C Wheeling, IL 60090",86000.0,1.0,1.0,679.0
+924,"290 N Westgate Rd Apt 108 Mount Prospect, IL 60056",101000.0,1.0,1.0,675.0
+925,"58 Forest Ave Apt 2S Riverside, IL 60546",80000.0,1.0,1.0,654.0
+926,"400 E Randolph St Apt 3711 Chicago, IL 60601",763000.0,2.0,2.0,650.0
+927,"111 W Maple St Apt 3411 Chicago, IL 60610",225000.0,1.0,1.0,650.0
+928,"1849 W Greenleaf Ave Apt 1S Chicago, IL 60626",120000.0,1.0,1.0,650.0
+929,"65 E Cedar St Apt 1A Chicago, IL 60611",205000.0,1.0,1.0,650.0
+930,"2909 N Sheridan Rd Apt 505 Chicago, IL 60657",154000.0,1.0,1.0,650.0
+931,"1545 W Chase Ave Apt 308 Chicago, IL 60626",118500.0,1.0,1.0,645.0
+932,"4513 S Laflin St Chicago, IL 60609",20000.0,2.0,2.0,644.0
+933,"30 E Huron St Apt 1003 Chicago, IL 60611",260000.0,1.0,1.0,643.0
+934,"233 E Erie St Apt 1907 Chicago, IL 60611",170000.0,1.0,1.0,633.0
+935,"6937 W 64th Pl Apt 9 Chicago, IL 60638",65500.0,1.0,1.0,630.0
+936,"7449 Washington St Apt 403 Forest Park, IL 60130",73500.0,1.0,1.0,613.0
+937,"11 King Arthur Ct Apt 4 Northlake, IL 60164",53000.0,1.0,1.0,600.0
+938,"8845 Lamon Ave Apt 2N Skokie, IL 60077",99000.0,1.0,1.0,582.0
+939,"10810 S Albany Ave Chicago, IL 60655",105000.0,2.0,1.0,580.0
+940,"182 W Lake St Apt 507 Chicago, IL 60601",182500.0,1.0,1.0,546.0
+941,"4709 N Virginia Ave Apt 3C Chicago, IL 60625",132000.0,1.0,1.0,500.0
+942,"530 W Barry Ave Apt 5D Chicago, IL 60657",150000.0,1.0,1.0,500.0
+943,"5960 N Winthrop Ave Apt 2W Chicago, IL 60660",1615000.0,1.0,1.0,500.0
